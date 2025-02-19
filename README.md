@@ -11,5 +11,3 @@
 
 - Visión general del proyecto, metodologías utilizadas y resultados clave.
 
-
-
