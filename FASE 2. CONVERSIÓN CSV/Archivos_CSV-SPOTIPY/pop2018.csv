@@ -1,0 +1,501 @@
+,track_name,artist_name,release_date,id_track,popularity,genero
+0,Cuando Nadie Ve,Morat,2018-10-25,71iAechwVKGu26pahzFL0k,74,pop
+1,Besos En Guerra,"Morat, Juanes",2018-10-25,1mlGScrDQqHqmhdIqE8MmA,74,pop
+2,Qué Bonito Es Querer,Manuel Carrasco,2018-12-07,6uzGmmQ4CuG9HvZktEy0LF,60,pop
+3,No Se Va,Morat,2018-10-25,4khWEpnaijN0G1x019Uzdr,74,pop
+4,Always Remember Us This Way,Lady Gaga,2018-10-05,2rbDhOo9Fh61Bbu23T2qCk,80,pop
+5,Destino o casualidad,"Melendi, Ha*Ash",2018-05-01,2sMxswHr9wX7kTUHULvJBJ,69,pop
+6,Shallow,"Lady Gaga, Bradley Cooper",2018-10-05,2VxeLyX666F8uXCJ0dZF8B,79,pop
+7,Presiento,"Morat, Aitana",2018-10-25,2V4hc5gplg7EXlrRUvD4rp,67,pop
+8,lovely (with Khalid),"Billie Eilish, Khalid",2018-04-19,0u2P5u6lvoDfwTYjAADbn4,83,pop
+9,Perdona (Ahora Sí Que Sí),"Carolina Durante, Amaia",2018-11-23,1AODZVWUeYlsKoFTo2iyEA,55,pop
+10,Traicionera,Sebastian Yatra,2018-05-18,4Ft0391aLVNtCPPseh98lp,70,pop
+11,Báilame - Remix,"Nacho, Yandel, Bad Bunny, Mambo Kingz, DJ Luian",2018-05-11,4l3xGFwoTinvYxsePytOOf,67,pop
+12,Solita,"Ozuna, Mambo Kingz, DJ Luian, Bad Bunny, Wisin, Almighty",2018-01-19,7rwX0O3RlxqqIjQM8evm5E,69,pop
+13,Vaina Loca,"Ozuna, Manuel Turizo",2018-08-24,48zFZh27QU5qsrBjn4C2FA,69,pop
+14,No Hay Nadie Más,Sebastian Yatra,2018-05-18,3IPJg1sdqLj12kFIndaonN,71,pop
+15,God's Plan,Drake,2018-06-29,6DCZcSspjsKoFjzjrWoCdn,79,pop
+16,Déjala Que Baile (with Alejandro Sanz & Arkano),"Melendi, Alejandro Sanz, Arkano",2018-03-09,2KK9N6iBAisA0booTu3bGd,59,pop
+17,Pausa,IZAL,2018-03-09,2xVrFCODKe7cGjc8nkOINq,53,pop
+18,Felices los 4,Maluma,2018-05-18,1RouRzlg8OKFeqc6LvdxmB,70,pop
+19,Natural,Imagine Dragons,2018-11-09,2FY7b99s15jUprqC0M5NCT,76,pop
+20,Dusk Till Dawn (feat. Sia) - Radio Edit,"ZAYN, Sia",2018-12-14,3e7sxremeOE3wTySiOhGiP,78,pop
+21,Te Vi,"Piso 21, Micro TDH",2018-12-14,059bcIhyc2SBwm6sw2AZzd,72,pop
+22,Happier,"Marshmello, Bastille",2018-08-17,7BqHUALzNBTanL6OvsqmC1,79,pop
+23,Call Out My Name,The Weeknd,2018-03-30,09mEdoA6zrmBPgTEN5qXmN,80,pop
+24,No Lie,"Sean Paul, Dua Lipa",2018-06-29,48QmG1dfvMuYLxMPt7KSRA,78,pop
+25,Bad Liar,Imagine Dragons,2018-11-09,2RSHsoi04658QL5xgQVov3,76,pop
+26,Let Me Down Slowly,Alec Benjamin,2018-11-16,2qxmye6gAegTMjLKEBoR3d,80,pop
+27,Havana (feat. Young Thug),"Camila Cabello, Young Thug",2018-01-12,1rfofaqEpACxVEHIZBJe6W,77,pop
+28,Cositas del Amor,Maka,2018-09-21,5USqXyZOu6JOb6mx5bk1Tm,50,pop
+29,Consejo de Amor (feat. Morat),"TINI, Morat",2018-10-12,7GrffUxvaKz4wKmyutin0P,67,pop
+30,Como Mirarte,Sebastian Yatra,2018-05-18,0CXEPVeQDLgDBfvcsQpXq1,66,pop
+31,One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",2018-04-06,7ef4DlsgrMEH11cDZd32M6,75,pop
+32,Softcore,The Neighbourhood,2018-11-02,2K7xn816oNHJZ0aVqdQsha,81,pop
+33,Fast Car,"Jonas Blue, Dakota",2018-11-09,1SN1vSPsr4V4tIUTR3s8YW,72,pop
+34,El Pozo,IZAL,2018-03-09,23mLKL6hhER8DHc6PBIRE2,50,pop
+35,Bubalu,"Becky G, Prince Royce, DJ Luian, Mambo Kingz, Anuel AA",2018-11-06,7dNwJbsT0sg1le5kVugGJb,65,pop
+36,I Was Never There,"The Weeknd, Gesaffelstein",2018-03-30,1cKHdTo9u0ZymJdPGSh6nq,79,pop
+37,Reflections,The Neighbourhood,2018-11-02,2xql0pid3EUwW38AsywxhV,80,pop
+38,Amantes de una Noche,"NATTI NATASHA, Bad Bunny",2018-01-12,2iCOdoyDmWG3hWkbtH1KB2,63,pop
+39,Indios y Vaqueros,"Sinsinati, Álvaro De Luna",2018-08-01,3u5GmyJP2MU3tEJgyiAG2T,49,pop
+40,Devuelveme,Ozuna,2018-08-24,5uvucCRBTkxv7VxIDLOqe7,59,pop
+41,Attention,Charlie Puth,2018-05-11,5cF0dROlMOK5uNZtivgu50,78,pop
+42,Amar el Conflicto (todo Lo Que Importa),Viva Suecia,2018-06-01,69WmxTgi8QNP45mKobRDpq,49,pop
+43,Ibiza,"Ozuna, Romeo Santos",2018-08-24,1h9P5WJwyvK8OB7O2YiXgp,61,pop
+44,Snowman,Sia,2018-11-01,7uoFMmxln0GPXQ0AcCBXRq,77,pop
+45,Perfect Strangers,"Jonas Blue, JP Cooper",2018-11-09,3P3pw6C19j31Rnzgo3JG7o,73,pop
+46,we fell in love in october,girl in red,2018-11-21,6IPwKM3fUUzlElbvKw2sKl,80,pop
+47,Calma - Remix,"Pedro Capó, Farruko",2018-10-05,5iwz1NiezX7WWjnCgY5TH4,67,pop
+48,I Like It,"Cardi B, Bad Bunny, J Balvin",2018-04-06,58q2HKrzhC3ozto2nDdN4z,72,pop
+49,Dieciocho,Dani Martín,2018-04-20,3nN5n70vM1tAMWBDZaRbxS,48,pop
+50,Ya No Tiene Novio,"Sebastian Yatra, Mau y Ricky",2018-08-10,7uQmJ1jgNzBpATSoWKSPFu,66,pop
+51,Love Me Like You Do,Ellie Goulding,2018-02-09,0Cy7wt6IlRfBPHXXjmZbcP,75,pop
+52,T.T.I.,Rauw Alejandro,2018-09-21,4gPpYLervKt4cXmhUjpYLj,58,pop
+53,PIENSO EN TU MIRÁ - Cap.3: Celos,ROSALÍA,2018-11-02,5r8mGKhCDIVWb3AG4hm0l0,56,pop
+54,Déjala Que Vuelva (feat. Manuel Turizo),"Piso 21, Manuel Turizo",2018-05-11,1j6xOGusnyXq3l6IryKF3G,70,pop
+55,Dancing On My Own,Calum Scott,2018-03-09,2BOqDYLOJBiMOXShCV1neZ,75,pop
+56,High Hopes,Panic! At The Disco,2018-06-22,1rqqCSm0Qe4I9rUvWncaom,75,pop
+57,rockstar (feat. 21 Savage),"Post Malone, 21 Savage",2018-04-27,0e7ipj03S05BNilyu5bRzt,78,pop
+58,Youngblood,5 Seconds of Summer,2018-06-15,2iUXsYOEPhVqEBwsqP70rE,77,pop
+59,La Modelo,"Ozuna, Cardi B",2018-08-24,2SbzdGpOKlH3HIAGTWTbwU,63,pop
+60,Otras Se Pierden,Morat,2018-10-25,3SvbcJH2seu1zs0PMjPS6F,65,pop
+61,Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",2018-12-14,3KkXRkHbMCARz0aVfEt68P,77,pop
+62,Acuérdate De Mí,Morat,2018-10-25,6vJSBlhgcGFTnHn3UsHgpt,63,pop
+63,Para Siempre,Kany García,2018-05-18,3w6HBymB6v99gmhz4aiX1g,67,pop
+64,Devuélveme El Corazón,Sebastian Yatra,2018-05-18,7etlF1zMxJbiaeQrXYh0PY,64,pop
+65,Corazón (feat. Nego do Borel),"Maluma, Nego do Borel",2018-05-18,5cepAtqnEQ6yVG6088zMMu,65,pop
+66,Dancing In The Moonlight (feat. NEIMY),"Jubël, NEIMY",2018-06-22,4GSDkZt7GcmzBWmsMcpaVO,68,pop
+67,FAKE LOVE,BTS,2018-05-18,6m1TWFMeon7ai9XLOzdbiR,74,pop
+68,Shotgun,George Ezra,2018-03-23,4ofwffwvvnbSkrMSCKQDaC,73,pop
+69,Rewrite The Stars (with James Arthur & Anne-Marie),"James Arthur, Anne-Marie",2018-10-25,6mQLN3zRtAp6ovjusyYKrV,75,pop
+70,Always Remember Us This Way,Lady Gaga,2018-10-05,74iZuPGwyL33VlTr6jTnab,65,pop
+71,Clandestino,"Shakira, Maluma",2018-06-08,7DrluKkTviBwCc8AV3VGmf,65,pop
+72,El Farsante - Remix,"Ozuna, Romeo Santos",2018-01-30,7uYgVgRSgqluZclLS7wpp4,63,pop
+73,Simples Corazones (feat. Melendi),"Fonseca, Melendi",2018-10-26,57AHAfiyk3gR8OBRf3s03U,61,pop
+74,What Lovers Do (feat. SZA),"Maroon 5, SZA",2018-06-15,0GxQ1A5L9xnMOytbP6eKBG,70,pop
+75,Shallow - Radio Edit,"Lady Gaga, Bradley Cooper",2018-10-05,6QfS2wq5sSC1xAJCQsTSlj,67,pop
+76,Symphony (feat. Zara Larsson),"Clean Bandit, Zara Larsson",2018-11-30,72gv4zhNvRVdQA0eOenCal,74,pop
+77,Someone You Loved,Lewis Capaldi,2018-11-08,2TIlqbIneP0ZY1O0EzYLlc,66,pop
+78,no tears left to cry,Ariana Grande,2018-08-17,2qT1uLXPVPzGgFOx4jtEuo,73,pop
+79,God is a woman,Ariana Grande,2018-08-17,5OCJzvD7sykQEKHH7qAC3C,72,pop
+80,Hey DJ,"CNCO, Yandel",2018-04-06,1XgpK29CGGjZnxPYkiRbh4,61,pop
+81,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake, Selena Gomez, Ozuna, Cardi B",2018-09-28,4w8niZpiMy6qz1mntFA5uM,67,pop
+82,La Correcta,"Nabález, Morat",2018-03-16,1ISamB2lPDAeKb4Js2hLgq,62,pop
+83,"After The Storm (feat. Tyler, The Creator & Bootsy Collins)","Kali Uchis, Tyler, The Creator, Bootsy Collins",2018-04-06,1otG6j1WHNvl9WgXLWkHTo,77,pop
+84,I Feel Like I'm Drowning,Two Feet,2018-10-05,3aauaXWRgwCMoykMbI0Jq1,73,pop
+85,Sin Pijama,"Becky G, NATTI NATASHA",2018-04-20,2ijef6ni2amuunRoKTlgww,63,pop
+86,Toto et Ninetta,Jul,2018-06-29,4DMSNaJcSirQN31BSf2BeZ,61,pop
+87,Te Amo,"Piso 21, Paulo Londra",2018-03-15,2RVrdr062uLFxXwIxwdXPH,67,pop
+88,Better Now,Post Malone,2018-04-27,7dt6x5M1jzdTEt8oCbisTK,75,pop
+89,Te Esperaba,Carlos Rivera,2018-09-07,22t10FTx8y3pC5fjLuKJ8K,63,pop
+90,Be Alright,Dean Lewis,2018-06-29,3EPXxR3ImUwfayaurPi3cm,72,pop
+91,Puntos Suspensivos,Piso 21,2018-05-11,04cd1MHVq1D8v1nuTZoCdv,66,pop
+92,Promises (with Sam Smith),"Calvin Harris, Sam Smith, Jessie Reyez",2018-08-17,5N5k9nd479b1xpDZ4usjrg,67,pop
+93,High On Life (feat. Bonn),"Martin Garrix, Bonn",2018-07-29,4ut5G4rgB1ClpMTMfjoIuy,65,pop
+94,FRIENDS,"Marshmello, Anne-Marie",2018-02-09,08bNPGLD8AhKpnnERrAc6G,72,pop
+95,Rockabye (feat. Sean Paul & Anne-Marie),"Clean Bandit, Sean Paul, Anne-Marie",2018-11-30,2hrUO4drrO63i7FYbCLBl2,70,pop
+96,Don't Wanna Know (feat. Kendrick Lamar),"Maroon 5, Kendrick Lamar",2018-06-15,5o3GnrcFtvkdf3zFznuSbA,68,pop
+97,Por Perro,"Sebastian Yatra, Luis Figueroa, Lary Over",2018-05-18,2alIsNw1mqEShbWyO1HXZZ,65,pop
+98,Candy,Doja Cat,2018-03-30,1VJwtWR6z7SpZRwipI12be,75,pop
+99,I'll Never Love Again - Film Version,"Lady Gaga, Bradley Cooper",2018-10-05,4A7EkKijzA4ryEoCRWJzdG,65,pop
+100,Por Perro,"Sebastian Yatra, Luis Figueroa, Lary Over",2018-05-18,2alIsNw1mqEShbWyO1HXZZ,65,pop
+101,Candy,Doja Cat,2018-03-30,1VJwtWR6z7SpZRwipI12be,75,pop
+102,I'll Never Love Again - Film Version,"Lady Gaga, Bradley Cooper",2018-10-05,4A7EkKijzA4ryEoCRWJzdG,65,pop
+103,You Get Me So High,The Neighbourhood,2018-11-02,7zwn1eykZtZ5LODrf7c0tS,77,pop
+104,welcome and goodbye,"Dream, Ivory",2018-03-31,00RLNHc2jkEjUoCUlFgPVT,78,pop
+105,Djadja,Aya Nakamura,2018-11-02,7sKDftgGirHWTVFMtJoDoh,65,pop
+106,Girls Like You (feat. Cardi B) - Cardi B Version,"Maroon 5, Cardi B",2018-06-15,7fa9MBXhVfQ8P8Df9OEbD8,69,pop
+107,Maldita Costumbre,Morat,2018-10-25,5cWIowEZxB2FkZ1Hzqpwjl,60,pop
+108,2002,Anne-Marie,2018-04-27,2BgEsaKNfHUdlh97KmvFyo,75,pop
+109,The Middle,"Zedd, Maren Morris, Grey",2018-01-23,09IStsImFySgyp0pIQdqAc,74,pop
+110,Eastside (with Halsey & Khalid),"benny blanco, Halsey, Khalid",2018-12-07,7FGq80cy8juXBCD2nrqdWU,75,pop
+111,Cold (feat. Future),"Maroon 5, Future",2018-06-15,2NlTOhsAamXOaZciOXbITb,68,pop
+112,Copines,Aya Nakamura,2018-11-02,1Bhm5HNO1cq8olDbBmokyL,69,pop
+113,Nothing Breaks Like a Heart (feat. Miley Cyrus),"Mark Ronson, Miley Cyrus",2018-11-30,27rdGxbavYJeBphck5MZAF,66,pop
+114,Birds,Imagine Dragons,2018-11-09,6Tvzf3VEi16JMhAgOwdt2y,66,pop
+115,Mi Suerte,Morat,2018-10-25,2kVtMvrlcK5SRxZvdHgTzn,65,pop
+116,Prom Queen,Beach Bunny,2018-08-10,6GJdFTOm23lC5bqjYSMJTj,74,pop
+117,Show Me How,Men I Trust,2018-02-28,75IQVo8hqI1iwVZyvkN2VT,76,pop
+118,Mama,"Jonas Blue, William Singe",2018-11-09,7jEyX4bqaCSdMN4D4JNnVj,69,pop
+119,Mala Mía,Maluma,2018-08-10,62o8KoI44JfN7aYxgTnPvh,62,pop
+120,Girls Like You,Maroon 5,2018-06-15,7npLlaPu9Mfno8hjk5OagD,65,pop
+121,Cuando Te Besé,"Becky G, Paulo Londra",2018-08-02,2XXMDz7SPZ4mSFN1PXfHUy,60,pop
+122,How Long,Charlie Puth,2018-05-11,6wmAHw1szh5RCKSRjiXhPe,71,pop
+123,Kiss and Make Up,"Dua Lipa, BLACKPINK",2018-10-19,7jr3iPu4O4bTCVwLMbdU2i,67,pop
+124,Never Be the Same,Camila Cabello,2018-01-12,4eWQlBRaTjPPUlzacqEeoQ,72,pop
+125,Say My Name,"David Guetta, Bebe Rexha, J Balvin",2018,4wqIXeDppYSMXaWsnTzpzT,64,pop
+126,L'altra dimensione,Måneskin,2018-10-26,36ONZ2CvV8KsLPapNPGTqa,62,pop
+127,If We Have Each Other,Alec Benjamin,2018-11-16,7pT6WSg4PCt4mr5ZFyUfsF,72,pop
+128,Ramenez la coupe à la maison,Vegedream,2018-07-20,1m0UFnuTktOkksvjbF9z0m,62,pop
+129,In My Blood,Shawn Mendes,2018-05-25,2QZ7WLBE8h2y1Y5Fb8RYbH,67,pop
+130,Celoso,Lele Pons,2018-08-17,33zcmmElV1YbRZe57biUjg,60,pop
+131,SLOW DANCING IN THE DARK,Joji,2018-10-26,6rY5FAWxCdAGllYEOZMbjW,76,pop
+132,Born To Be Yours,"Kygo, Imagine Dragons",2018-06-15,0kHyKhJMukHEPfeh8s7rdM,64,pop
+133,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)","Rudimental, Jess Glynne, Macklemore, Dan Caplen",2018-01-19,5CLGzJsGqhCEECcpnFQA8x,65,pop
+134,Love Someone,Lukas Graham,2018-10-26,0OCRwXbQRdOZ1OtB4Imsp1,65,pop
+135,FAKE LOVE,BTS,2018-08-24,6a0gRYXKK0YU69cXaB2RrK,67,pop
+136,Causa Perdida,Morat,2018-10-25,0z5ORPHUxBvTb6ff1Ivi3m,59,pop
+137,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,2018-05-10,4hQ6UGyWQIGJmHSo0J88JW,69,pop
+138,SUTRA,"Sebastian Yatra, Dalmata",2018-05-18,0lTYnxJdC68v0oXd5xolxY,63,pop
+139,Torna a casa,Måneskin,2018-10-26,3590AAEoqH50z4UmhMIY85,61,pop
+140,El Préstamo,Maluma,2018-05-18,2XVilv6s9GETnw9PG4T9Mz,59,pop
+141,In My Feelings,Drake,2018-06-29,2G7V7zsVDxg1yRsu7Ew9RJ,69,pop
+142,Rise,"Jonas Blue, Jack & Jack",2018-11-09,5ZSl6gDoV6bPPxzmLeneV9,67,pop
+143,DDU-DU DDU-DU,BLACKPINK,2018-06-15,4lQsB3ERTWSNaAN1IkuNRl,67,pop
+144,Me Muero,Carlos Rivera,2018-09-07,4dpTz2Tgczw9lDdBAT0fvT,60,pop
+145,Us,James Bay,2018-05-18,16XiTUC2rQvb5lmtOm3FYY,67,pop
+146,Solo (feat. Demi Lovato),"Clean Bandit, Demi Lovato",2018-11-30,3NuK5xMlSlB6K2Qp16zf3h,67,pop
+147,bitches broken hearts,Billie Eilish,2018-03-30,5t3Vk8bRKylx4fjj7qlbib,70,pop
+148,Capital Letters,"Hailee Steinfeld, BloodPop®",2018-02-09,6l0Ky2PycJV1Bz88kFeVGL,67,pop
+149,Chlorine,Twenty One Pilots,2018-10-05,23OXdR7YuUBVWh5hSnYJau,70,pop
+150,"Zero - From the Original Motion Picture ""Ralph Breaks The Internet""",Imagine Dragons,2018-11-09,2bzitsPcImYC6DZWvvLCQi,63,pop
+151,i wanna be your girlfriend,girl in red,2018-03-02,5PjdC2gMATetx5xdnwGUu7,70,pop
+152,SOLO,JENNIE,2018-11-12,2wVDWtLKXunswWecARNILj,67,pop
+153,Brother,Kodaline,2018-09-28,65gLJGey4u4KFFqoC5fzFJ,67,pop
+154,Better,Khalid,2018-10-19,2OpBganfGk2GVdSlRdxzaX,74,pop
+155,Wine Pon You (feat. Konshens),"Doja Cat, Konshens",2018-03-30,2s4AcE9n80mSHl87lp4gIm,71,pop
+156,Me Llamas,Piso 21,2018-05-11,6tkMQQ5bJ6g0YF6d18iavC,59,pop
+157,Solo (feat. Demi Lovato),"Clean Bandit, Demi Lovato",2018-05-17,6kPJZM97LwdG9QIsT7khp6,64,pop
+158,Happy Now,"Kygo, Sandro Cavazza",2018-10-26,14sOS5L36385FJ3OL8hew4,62,pop
+159,Finesse,Drake,2018-06-29,2WP8G2pdddDmnh1xbfKBOI,70,pop
+160,Going Bad (feat. Drake),"Meek Mill, Drake",2018-11-30,2IRZnDFmlqMuOrYOLnZZyc,72,pop
+161,Mo Bamba,Sheck Wes,2018-10-05,1xzBco0xcoJEDXktl7Jxrr,71,pop
+162,Ramenez la coupe à la maison,Vegedream,2018-07-19,45eY7Qi2PDUs8WJEhjGWdN,62,pop
+163,Ma che beauté,Jul,2018-12-07,0XXooKwo0L6gxn0OxZFDXw,54,pop
+164,Wake Up in the Sky,"Gucci Mane, Bruno Mars, Kodak Black",2018-12-07,2G1tXoGBaEMJ7FKGnkf6ud,70,pop
+165,Rewrite The Stars (with James Arthur & Anne-Marie),"James Arthur, Anne-Marie",2018-11-16,78nplE9X2ZGvQh3TKgvldE,62,pop
+166,Morirò da Re,Måneskin,2018-10-26,1aX0Ki80LFzzhqxqRlqbAV,60,pop
+167,Water Fountain,Alec Benjamin,2018-11-16,4IhKLu7Vk3j2TLmnFPl6To,68,pop
+168,كلام عينيه,Sherine,2018-10-24,6g95dK7o7vVh8ZCnDAseU5,70,pop
+169,Mad Love,"Sean Paul, David Guetta, Becky G",2018-06-29,4dSoDnmR9opAQ8KxUc9SbC,59,pop
+170,come out and play,Billie Eilish,2018-11-20,7wC5eZcFS1Q1BsQ35DU6H4,65,pop
+171,Ghost Of You,5 Seconds of Summer,2018-06-15,1MhXdlCQPnO56T57MfmaRm,66,pop
+172,Missili,"Frah Quintale, Giorgio Poi",2018-06-29,5dcyltc1ataieXIeTqhH3t,59,pop
+173,Blah Blah Blah,Armin van Buuren,2018-05-18,2xkrujtSjZz7EKAYGbIIzH,59,pop
+174,Marlboro Nights,Lonely God,2018-06-28,755inykyaG4w22GWAsA3MX,67,pop
+175,You Are The Reason - Duet Version,"Calum Scott, Leona Lewis",2018-11-30,1x3W8RZxW94lrVGhP95qA6,63,pop
+176,Euphoria,BTS,2018-08-24,5YMXGBD6vcYP7IolemyLtK,68,pop
+177,breathin,Ariana Grande,2018-08-17,4OafepJy2teCjYJbvFE60J,66,pop
+178,It Runs Through Me (feat. De La Soul),"Tom Misch, De La Soul",2018-04-06,0vMctOnb4YNIvbqgkbWNDy,63,pop
+179,Can't Help Falling In Love,Kina Grannis,2018-08-10,6lfxq3CG4xtTiEg7opyCyx,63,pop
+180,Nice For What,Drake,2018-06-29,3CA9pLiwRIGtUBiMjbZmRw,72,pop
+181,Dead To Me,Kali Uchis,2018-04-06,6LOZws7T3jqZz78unPgFF9,70,pop
+182,IDOL,BTS,2018-08-24,1e8J3XClxZbFmvIHLI8CE4,67,pop
+183,POP/STARS,"K/DA, Madison Beer, (G)I-DLE, Jaira Burns, League of Legends",2018-11-03,5sbooPcNgIE22DwO0VNGUJ,64,pop
+184,sweetener,Ariana Grande,2018-08-17,70khXICDeTTxgYtw3EysKH,70,pop
+185,Hurt You,"The Weeknd, Gesaffelstein",2018-03-30,6QdnKD1zwEgyOWtkrdzlOF,67,pop
+186,Walk It Talk It,"Migos, Drake",2018-01-26,6n4U3TlzUGhdSFbUUhTvLP,68,pop
+187,By Your Side,"Jonas Blue, RAYE",2018-11-09,4QTuyRQshEZYurtIDfE6g0,63,pop
+188,Mi Vida Entera,Morat,2018-10-25,08K2f894fe9zB5Ohd6H1C6,56,pop
+189,Psycho (feat. Ty Dolla $ign),"Post Malone, Ty Dolla $ign",2018-04-27,3swc6WTsr7rl9DqQKQA55C,70,pop
+190,Nervous,The Neighbourhood,2018-11-02,113xf7t4qNM7038YJvauik,69,pop
+191,Ma Chérie - DJ Antoine & Mad Mark 2K12 Radio Edit,"DJ Antoine, The Beatshakers, Mad Mark",2018-11-09,53N4dEwHT1D6xwebFQ8OtQ,46,pop
+192,Into Your Arms (feat. Ava Max),"Witt Lowry, Ava Max",2018-06-08,0b11D9D0hMOYCIMN3OKreM,67,pop
+193,Balance ton quoi,Angèle,2018-10-05,2jX5c5RFp0A9E1GDsvGxIa,60,pop
+194,Switch Up,Maes,2018-03-02,3oDqQShG78QUJk7L9lTaJl,57,pop
+195,Besándote,Piso 21,2018-05-11,43jclIPKJv9iFiYWVyWqsb,58,pop
+196,Bad boy,Marwa Loud,2018-03-09,0RE4crnT3jRms1xxVlEZx2,63,pop
+197,Aventurero,Yeison Jimenez,2018-09-28,0ftcn4ddKESqQMA784Ebc0,55,pop
+198,What is Love?,TWICE,2018-07-09,3zhbXKFjUDw40pTYyCgt1Y,69,pop
+199,everytime,Ariana Grande,2018-08-17,0WdR2AyLW1Drd3OUdwezM0,69,pop
+200,San Luis,Gregory Alan Isakov,2018-10-05,0mnWNvwXRNu82bpfi2rsuz,67,pop
+201,Santa's Coming for Us,Sia,2018-11-01,1N1ZpYUJc9fwrqk53FGgWv,63,pop
+202,Polaroid,"Jonas Blue, Liam Payne, Lennon Stella",2018-11-09,49COPp81lGS9Hl9OwKlsKl,62,pop
+203,Wake Up in the Sky,"Gucci Mane, Bruno Mars, Kodak Black",2018-09-14,0QIjsbm2fh1cJ45XO9eGqq,68,pop
+204,Try Me,The Weeknd,2018-03-30,4ppTAJUbNXELZcoUaL90wo,65,pop
+205,Fantasy,Bazzi,2018-04-12,1i36kkhmhBxf4lYJscg5zK,67,pop
+206,Pookie,Aya Nakamura,2018-11-02,2QpUWi6VSNOt2WyH5FIeLD,60,pop
+207,Soy Yo,Kany García,2018-05-18,4n8cY8SZgldxSbq9uJ05Tq,55,pop
+208,Say Something (feat. Chris Stapleton),"Justin Timberlake, Chris Stapleton",2018-02-02,1LhMopPAallLeaeNutqbgS,64,pop
+209,Don’t Matter To Me (with Michael Jackson),"Drake, Michael Jackson",2018-06-29,6G8kHiVZ1jW7vHMPVRNZU0,65,pop
+210,Saturday Sun,Vance Joy,2018-02-23,2RiBogNRfulkNf7fVbPOrJ,66,pop
+211,Perderme Contigo,Bacilos,2018-08-24,7mHFWWfVlhqGjeIQ5qt9i2,59,pop
+212,Fallin' All In You,Shawn Mendes,2018-05-25,5EYBryPOgIEPB7r5QIy6eG,64,pop
+213,Love Lies (with Normani),"Khalid, Normani",2018-02-14,45Egmo7icyopuzJN0oMEdk,72,pop
+214,Bienvenue à La Banane,Moha La Squale,2018-01-05,75150PNLhk4LZwCe3ytsUq,55,pop
+215,I'm a Mess,Bebe Rexha,2018-06-22,04ZTP5KsCypmtCmQg5tH9R,65,pop
+216,I'll Be There,Jess Glynne,2018-10-12,4r1CoAATVuxag55Ct3Y1aX,63,pop
+217,Tidal Wave - Acoustic,Old Sea Brigade,2018-04-20,4I7nXv6iqKh60sWMJdpUbN,58,pop
+218,MIC Drop (Steve Aoki Remix) (Full Length Edition),"BTS, Steve Aoki",2018-08-24,01380RE6UfsPSdiUIwrCoH,64,pop
+219,Marinero,Maluma,2018-05-18,6x5LBP3nYXVdIDoomChGr3,54,pop
+220,Carol Of The Bells,Lindsey Stirling,2018-10-19,0byPyCPX9mfGMiAGVZxasq,62,pop
+221,Luna,Moha La Squale,2018-05-25,55PyQALchJn43CGeN6XHAN,55,pop
+222,girls,girl in red,2018-06-08,04OSnqlwlBJMvidYccraVz,65,pop
+223,Eastside (with Halsey & Khalid),"benny blanco, Halsey, Khalid",2018-07-12,0d2iYfpKoM0QCKvcLCkBao,68,pop
+224,Fear for Nobody,Måneskin,2018-10-26,7t3fuKd5h73oppjIgkxZ25,57,pop
+225,You're Somebody Else,flora cash,2018-06-19,0pdKRp2sUthTPe7RLWpPqQ,63,pop
+226,Strawberries & Cigarettes,Troye Sivan,2018-03-16,3afkJSKX0EAMsJXTZnDXXJ,72,pop
+227,Ye,Burna Boy,2018-01-26,3FskQrDXcY24ur2fCvz35O,63,pop
+228,YEAH RIGHT,Joji,2018-10-26,52ooD6LHuXFubM6d1CDD93,68,pop
+229,Airplane pt.2,BTS,2018-05-18,4lAE47gj539h8R1yxPhhGG,64,pop
+230,Spotlight,"Marshmello, Lil Peep",2018-01-12,6VrCmhRBFnuGKmtNfk4jDs,67,pop
+231,Let It All Work Out,Lil Wayne,2018-09-28,3BUWNzPWz2mDbptZmGEXpB,71,pop
+232,Hold My Girl,George Ezra,2018-03-23,42bbDWZ8WmXTH7PkYAlGLu,66,pop
+233,Candy Paint,Post Malone,2018-04-27,32lItqlMi4LBhb4k0BaSaC,69,pop
+234,This Feeling,"The Chainsmokers, Kelsea Ballerini",2018-12-14,4NBTZtAt1F13VvlSKe6KTl,67,pop
+235,From the Subway Train,Vansire,2018-04-26,0qOCy2LqvdkMora7eZsJhQ,68,pop
+236,Taste (feat. Offset),"Tyga, Offset",2018-05-16,5IaHrVsrferBYDm0bDyABy,64,pop
+237,Done for Me (feat. Kehlani),"Charlie Puth, Kehlani",2018-05-11,1lsBTdE6MGsKeZCD6llNu7,63,pop
+238,Love Shot,EXO,2018-12-13,0yB4jrSwN0bFtFRDR5vyMj,65,pop
+239,Mykonos,Fleet Foxes,2018-11-09,7H71gZwWs3xPWnHM30NDUp,55,pop
+240,Nico and the Niners,Twenty One Pilots,2018-10-05,5SehvGGC53A7SZKCLXQcyt,63,pop
+241,Feel Your Weight - Poolside Remix,"Rhye, Poolside",2018-11-16,1hgX0ZmmP7IRRjUFCIBrnQ,58,pop
+242,Epiphany,BTS,2018-08-24,6L88EH68XwlaXwvChlTS41,63,pop
+243,4EVER,Clairo,2018-04-27,5mIOsPuQdXchVY0jB5NO9Q,71,pop
+244,I Miss You (feat. Julia Michaels),"Clean Bandit, Julia Michaels",2018-11-30,0Ult84lvFuqNvbyXwyRQ58,61,pop
+245,Out Of Love,Alessia Cara,2018-11-30,4WzhjxvLP95y7AMDy0Atwb,62,pop
+246,Culpables,Manuel Turizo,2018-07-26,3RD0PGolM0mETGHaprwgMn,57,pop
+247,Vivo Pensando En Ti (feat. Maluma),"Felipe Peláez, Maluma",2018-09-14,4DBnQKEkneEBbUXJVX5Kxs,54,pop
+248,Tired,beabadoobee,2018-12-07,6F5mZpEEjhsAW8UEqbIpz1,70,pop
+249,Stay,Post Malone,2018-04-27,4H7WNRErSbONkM06blBoGc,66,pop
+250,Harvey,Her's,2018-08-24,1zFbBrZmJr1Z49HYe84dBg,67,pop
+251,Sou Favela,"MC Bruninho, Vitinho Ferrari, Dj DG, Batidão Stronda",2018-09-02,4lEVoOnIybtRqi4knZwdPZ,58,pop
+252,The Bug Collector,Haley Heynderickx,2018-03-02,5nVE45ithgyVocZp5XLAk6,64,pop
+253,Beautiful (feat. Camila Cabello),"Bazzi, Camila Cabello",2018-08-02,4VUwkH455At9kENOfzTqmF,66,pop
+254,REEL IT IN,Aminé,2018-08-15,5qHirGR7M9tdm6C17DlzSY,63,pop
+255,Better,Khalid,2018-09-14,4T3fNx3CgwDRRYgmFCbD4J,61,pop
+256,Mine,Bazzi,2018-04-12,7uzmGiiJyRfuViKKK3lVmR,68,pop
+257,Ocean (feat. Khalid),"Martin Garrix, Khalid",2018-06-15,3nc420PXjTdBV5TN0gCFkS,62,pop
+258,Promise,Jimin,2018-12-31,2RUcwyW74Sv4VracHFrKdh,63,pop
+259,Will He,Joji,2018-02-14,7wvwXi9Z66dcH5t202vVkN,66,pop
+260,Let You Love Me,Rita Ora,2018-11-23,5Fla3zyOCcIRqrDoKLU0DP,60,pop
+261,As the World Caves In,Matt Maltese,2018-06-08,3NM41PVVUr0ceootKAtkAj,65,pop
+262,Wanda Nara (Bizarrap Remix),Bizarrap,2018-04-23,0LIrw4bN6n32HmxptRya7I,50,pop
+263,No Te Creas Tan Importante - En Vivo,"Damas Gratis, Viru Kumbieron",2018-03-23,3trowLiYwwOoiwapLISNyk,59,pop
+264,Mama,Maes,2018-11-29,3XbxOKMhF5DnOYue7JMsYm,60,pop
+265,Boy In The Bubble,Alec Benjamin,2018-11-16,60cYr5uuMoxvyuIx45rGEW,63,pop
+266,Justicia,"Silvestre Dangond, NATTI NATASHA",2018-06-29,6ipp8Dhs33KinlF4BStgca,52,pop
+267,Freed from Desire (feat. Indiiana),"Drenchill, Indiiana",2018-11-09,1lr5prHQn7Q766Ix6eGRKK,57,pop
+268,Esa Pared (feat. Vicente Fernández),"Leo Dan, Vicente Fernández",2018-03-23,2h9MKyF7PmWr99TeuoI8Xt,62,pop
+269,Me Vas a Extrañar - En Vivo,"Damas Gratis, Viru Kumbieron",2018-09-07,3CACzG9I3AoKUKA3ODE5zW,59,pop
+270,Ciao Adios,Anne-Marie,2018-04-27,01BC4Xj5tfsfV8DLDrma7q,60,pop
+271,B.E.D.,Jacquees,2018-09-07,1B6TmCvKjC4dopBohVW51x,71,pop
+272,O Alvo (feat. Henrique & Juliano) - Ao Vivo,"Diego & Victor Hugo, Henrique & Juliano",2018-07-13,4HQByPPgZOGbzvgJFZX61K,64,pop
+273,Pray For Me (with Kendrick Lamar),"The Weeknd, Kendrick Lamar",2018-02-09,77UjLW8j5UAGAGVGhR5oUK,65,pop
+274,A Million Dreams,P!nk,2018-10-24,0oagwWkGlBoACUuKvTmqZV,61,pop
+275,Sports,Beach Bunny,2018-01-01,25WBAqR5bcRrs1du9L6AeC,67,pop
+276,Guerilla,Soolking,2018-11-02,7EAtJk0HzXQp2gpFeaaLzF,54,pop
+277,Scott Street,Phoebe Bridgers,2018-10-02,21uFPefbgeR3QLVJWATlrr,68,pop
+278,Turn off the Lights,"Chris Lake, Alexis Roberts",2018-02-23,7dsImih2L25fa6qjNphBI7,62,pop
+279,Panic Room,Au/Ra,2018-02-09,7uUahoeqGNRMbpdeiLj1rS,64,pop
+280,Paradise,George Ezra,2018-03-23,38zwkK6TtTjIW9tpYBfZ3D,60,pop
+281,Girl - Acoustic,SYML,2018,4BrGYhbT975hwXXPBUqXNY,54,pop
+282,Hard 2 Face Reality,"Poo Bear, Justin Bieber, Jay Electronica",2018-04-27,3XBMJF4N7ZdZrK30oGCxpN,63,pop
+283,comethru,Jeremy Zucker,2018-09-28,18uwL0vNUanqZH0ro2QcOP,68,pop
+284,BOOM,"Tiësto, Sevenn, Gucci Mane",2018-01-26,6iC7vapdKp0XlKhxOkp8QJ,60,pop
+285,Nuketown (feat. Juice WRLD),"Ski Mask The Slump God, Juice WRLD",2018-11-30,74lnM5V6ecvoTPV0fvptx9,67,pop
+286,Compass,The Neighbourhood,2018-11-02,0YNtAadZvKBBEFARtfoCV8,62,pop
+287,It's Not Living (If It's Not With You),The 1975,2018-11-30,3TgMcrV32NUKjEG2ujn9eh,67,pop
+288,Love Maze,BTS,2018-05-18,4ROdFnoZNn2RTmwct0cVpx,62,pop
+289,よふかしのうた,Creepy Nuts,2018-12-12,0LQs5gRhqJKLOl8fFukRsQ,59,pop
+290,Nesesari,"Kizz Daniel, Philkeyz",2018-11-30,1yOt3NUFWpYbnFW6ISj59h,58,pop
+291,Bodak Yellow,Cardi B,2018-04-06,6KBYefIoo7KydImq1uUQlL,67,pop
+292,Hard 2 Face Reality,"Poo Bear, Justin Bieber, Jay Electronica",2018-04-06,0sPJELXHyWpFgkxlzvvRFI,64,pop
+293,Complètement sonné,KeBlack,2018-05-11,4bZOVCf1wiNELuCH34rFDl,60,pop
+294,What If (I Told You I Like You),"Johnny Orlando, kenzie",2018-05-18,4v7DgEMw6EvYyuQ4eWFD9l,60,pop
+295,Maria,"Tiiwtiiw, Cravata",2018-02-16,7kUT4h5WeE9BfzuJMKnIEI,46,pop
+296,Gonna Love Me,Teyana Taylor,2018-06-23,3nXrCAE44KlevAkQB2XWcN,66,pop
+297,D'Evils,SiR,2018-01-19,0wY9rA9fJkuESyYm9uzVK5,63,pop
+298,Mona Lisa (feat. Kendrick Lamar),"Lil Wayne, Kendrick Lamar",2018-09-28,0dbTQYW3Ad1FTzIA9t90E8,66,pop
+299,No Te Enamores,Paloma Mami,2018-12-21,0EJu1RBtxzldMG2peczuPv,50,pop
+300,YES or YES,TWICE,2018-11-05,26OVhEqFDQH0Ij77QtmGP9,62,pop
+301,sex money feelings die,Lykke Li,2018-06-08,0g4fzRkbLeCDUCoe5iUOcf,63,pop
+302,F Song,Strawberry Guy,2018-08-09,4z9KVNX4hmk672SJfhtQNz,64,pop
+303,Asalto,Jul,2018-12-07,5w8ubPI4lWhHvMeGhndQ1w,56,pop
+304,Motel 6,River Whyless,2018-06-08,6hUTzxvNiJ1c0lYqgoOTBW,63,pop
+305,Unbothered,Ski Mask The Slump God,2018-11-30,5hwUsRKvnO5yThjVrxHQVt,65,pop
+306,Happy Now,"Zedd, Elley Duhé",2018-07-18,4keoy2fqgwGnbWlm3ZVZFa,61,pop
+307,الوتر الحساس,Sherine,2018-10-24,63Gl4Wqr98iJnWoNGFOQjr,65,pop
+308,1950,King Princess,2018-02-23,0CZ8lquoTX2Dkg7Ak2inwA,61,pop
+309,Freaky Friday (feat. Chris Brown),"Lil Dicky, Chris Brown",2018-03-16,6dbSBQXCctYSVryynHXaZ4,67,pop
+310,Madrina,"Maes, Booba",2018-11-29,4miiqu2dxOhBguQDHtqssH,61,pop
+311,The Last Of The Real Ones,Fall Out Boy,2018-01-19,6e13443Ve7RGcAUScTgYtl,60,pop
+312,LOVE SCENARIO,iKON,2018-01-25,3d3ELsqKlQ7WA0a10Isu3l,64,pop
+313,Teenage Mind,Tate McRae,2018-08-17,1vdjJ55uw3WOuu7ZSyABFP,62,pop
+314,Jaded,Drake,2018-06-29,4c2xt1trwYZpMqPWY35Xi9,66,pop
+315,MotorSport,"Migos, Nicki Minaj, Cardi B",2018-01-26,4wFjTWCunQFKtukqrNijEt,63,pop
+316,Chun-Li,Nicki Minaj,2018-08-10,1e4rwBPVI32vZtTJu7mJ4J,62,pop
+317,Narcos,Migos,2018-01-26,0wbnC9AUenxp613TYaJsGK,62,pop
+318,Hello?,"Clairo, Rejjie Snow",2018-05-25,7qwt4xUIqQWCu1DJf96g2k,67,pop
+319,Tout oublier,"Angèle, Roméo Elvis",2018-10-05,06O3hxudc6V0BOuoCFSy71,57,pop
+320,Dance The Night Away,TWICE,2018-07-09,4DYIDSMIB5y2UmZFv9fxeX,60,pop
+321,Placebo,Dinos,2018-12-07,17jlkHSNHFu1zUuu8QZyOW,65,pop
+322,Cozy Little Christmas,Katy Perry,2018-11-15,02FaKXXL7KUtRc7K0k54tL,59,pop
+323,Reggaetón Lento (Remix),"CNCO, Little Mix",2018-04-06,58gqyeFXhOttZW3yetJGPN,58,pop
+324,Over the Moon,The Marías,2018-09-28,02wNtFxlr9dLmZXKT5TIF5,66,pop
+325,Stir Fry,Migos,2018-01-26,2UVbBKQOdFAekPTRsnkzcf,69,pop
+326,Amore,Jul,2018-12-07,2j2l8FTr3ssUzV36DvhzF6,50,pop
+327,Roi,"Videoclub, Adèle Castillon, Mattyeux",2018-12-18,1oQLLvCmCSTiU9LoPstLlC,58,pop
+328,Better,Khalid,2018-10-18,6zeeWid2sgw4lap2jV61PZ,64,pop
+329,Walk Thru Fire,Vicetone,2018-08-03,2wQ411UQL2MRsdAgPRUstT,60,pop
+330,Bailar Contigo,Monsieur Periné,2018-05-18,4hi9OTFKomNUlAIhp1fmap,54,pop
+331,I'm with You,Vance Joy,2018-02-23,6Qwuw0eOeszVlewLpu24gR,60,pop
+332,Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,"SHAUN, Conor Maynard, Sam Feldt",2018-12-21,1ZLrDPgR7mvuTco3rQK8Pk,64,pop
+333,Bad Boy,Red Velvet,2018-01-29,5GKwq4sO5ZHKuWaDmdwMQc,63,pop
+334,Not Steady,Paloma Mami,2018-09-21,42ArfZUgGo3k5btIHp08it,52,pop
+335,Mob Ties,Drake,2018-06-29,7rC5Pl8rQSX4myONQHYPBK,61,pop
+336,Sick Boy,The Chainsmokers,2018-12-14,58kZ9spgxmlEznXGu6FPdQ,60,pop
+337,Cocaine Sunday,Eyedress,2018-11-16,5HzrX4aKVfb1NQCsaqf6R0,64,pop
+338,ただ君に晴れ,ヨルシカ,2018-05-09,3wJHCry960drNlAUGrJLmz,69,pop
+339,Faucet Failure,Ski Mask The Slump God,2018-11-30,1ThmUihH9dF8EV08ku5AXN,65,pop
+340,Mama,Muslim,2018-07-13,3Sza4oAVIgpyqM8NOygc3Y,41,pop
+341,Beddala,Mehdi Mozayine,2018-09-01,1ofUihmiTGU4xETMZ2gwfN,44,pop
+342,Pour un violet,Jul,2018-12-07,4YxgYZJeC91vmJrDRdfnZG,56,pop
+343,8 Letters,Why Don't We,2018-08-31,4zRZAmBQP8vhNPf9i9opXt,70,pop
+344,Emotionless,Drake,2018-06-29,5Psnhdkyanjpgc2P8A5TSM,59,pop
+345,Favela,"Naps, Soolking",2018-03-09,1xZA0qvWfCcsNlzZXmCnJh,51,pop
+346,Por Pura Curiosidad,Fonseca,2018-10-26,1oRfaDjjGDgO3HCql0AOUy,52,pop
+347,Meant to Be (feat. Florida Georgia Line),"Bebe Rexha, Florida Georgia Line",2018-06-22,4e4fqjx0Izh4svvTef1z7e,67,pop
+348,Ta reine,Angèle,2018-10-05,3iXhLi33EpUfcOwasC8un1,56,pop
+349,À nos souvenirs,Trois Cafés Gourmands,2018-10-05,3LgrzjwX7RVTtAX9Ai12Qm,59,pop
+350,Air Max,"Rim'K, Ninho",2018-09-21,2qIj2igCag4Rm1tmxYdhO0,61,pop
+351,Bendero,Moha La Squale,2018-05-25,3suGeDJB3BJahpUVLMncWt,50,pop
+352,You,Jacquees,2018-09-07,01jIO8SJFnpSiNLH1JaBZ5,63,pop
+353,Tesla (feat. Sfera Ebbasta & DrefGold),"Capo Plaza, Sfera Ebbasta, DrefGold",2018-04-20,093RgZ7RXHZwIrxZhZYX4Q,57,pop
+354,Sensima,"Skiibii, Reekado Banks",2018-10-17,2tsuHoDRjMTPkibpOkRuq4,53,pop
+355,OTW,"Khalid, 6LACK, Ty Dolla $ign",2018-04-20,6Hgh47WXVKtXN5zGOu0hjI,65,pop
+356,Casablanca,Saad Lamjarred,2018-07-31,5Jzss6xqzVPGTxTUbNqtZY,44,pop
+357,If You Want To,beabadoobee,2018-12-07,7I1kle4TNmkfednJDKo8GR,64,pop
+358,Bella,"MHD, Wizkid",2018-09-19,0O4XHiuVt3dBaOzSI49BtF,56,pop
+359,Don't Cry (feat. XXXTENTACION),"Lil Wayne, XXXTENTACION",2018-09-28,5BQrp63SHCVf4bzCzJePne,59,pop
+360,Wish (feat. Trippie Redd) - Trippie Mix,"Diplo, Trippie Redd",2018-08-10,0c0YHn3DIQLl1opsQDd9kO,67,pop
+361,In the Morning,Joe Bel,2018-10-26,5qNdNpUlmgKxutGBJ4TPUg,52,pop
+362,Saturday Nights,Khalid,2018-10-18,5kfNriitmkNE8mUbZ7gbq8,62,pop
+363,Way Back Home,SHAUN,2018-06-27,3NxuezMdSLgt4OwHzBoUhL,63,pop
+364,151 Rum,JID,2018-11-26,22WV03i2lBbwNVCE1g671p,63,pop
+365,Settimana Bianca,Il Pagante,2018-09-21,5BqUbKq9rCMrCkRtAiz8XA,57,pop
+366,Tempo,EXO,2018-11-02,4EjUFjzi4ErWjklOA3Aslu,59,pop
+367,Charcoal Baby,Blood Orange,2018-08-24,3bBmpVl9rQKJsFFGLFilIS,62,pop
+368,Snow,Moha La Squale,2018-05-25,1nnrzx8IOX0kuPMpCVnWgO,51,pop
+369,Can’t Take A Joke,Drake,2018-06-29,1dUHF4RyMmMTveJ0Rby6Xm,60,pop
+370,Bed (feat. Ariana Grande),"Nicki Minaj, Ariana Grande",2018-08-10,3L4GsGLgxpHieVQH86H8bv,57,pop
+371,Vai et viens,Lartiste,2018-02-23,6dAx0jUY9lnXEtBiK7e2ZZ,57,pop
+372,La grenade,Clara Luciani,2018-04-06,7ixCRBD0FZMRBeOBhTu2KD,58,pop
+373,Vrais,Ninho,2018-03-30,6WfnzeciIa1Ta661GY9hue,68,pop
+374,Bébé,"MHD, Dadju",2018-09-19,2sjJrFhDT0oP3fyCocTVyX,55,pop
+375,Ti dedico il silenzio,Ultimo,2018-02-09,6GLmGfALwjzCaOiHwgfU7g,58,pop
+376,all the kids are depressed,Jeremy Zucker,2018-05-04,75ls0gurX68lUmMjE7QcsE,62,pop
+377,Flou,Angèle,2018-10-05,3b89BehicGUgc60pLBo092,53,pop
+378,La Vie en Rose,IZ*ONE,2018-10-29,3WfaJhCL4p2JbdffJjV6Va,60,pop
+379,LATATA,(G)I-DLE,2018-05-02,2ezKXygNO30pXyDQXkm6oD,56,pop
+380,Khaliwni,L7or,2018-06-26,39OT0D97YwhvhspNUn6avT,36,pop
+381,Детство,Rauf & Faik,2018-09-28,5snCfoQbJ7S4cYB0K8XuJ4,62,pop
+382,I Love My Boyfriend,Princess Chelsea,2018-09-07,6Sb49DdwbBrVEEtG8OGpGT,60,pop
+383,Hit Sale,"Therapie TAXI, Roméo Elvis",2018-02-02,3yndKI4zWEyC36BQYrdKBA,59,pop
+384,Meu Abrigo,Melim,2018-06-08,5U28PY9MekLyCBYtLHGQpe,63,pop
+385,Medicine,Queen Naija,2018-06-08,4lFfMRH0YH4pW5gczTDbNC,62,pop
+386,Amour plastique,"Videoclub, Adèle Castillon, Mattyeux",2018-09-08,3vTQ939Tlk6CXYtQgMOFUR,56,pop
+387,Siri Siri,Fnaire,2018-04-10,5yBhQWfn9WvNFvV2P08JXe,41,pop
+388,La dot,Aya Nakamura,2018-11-02,3aRgAfrt6aQW8IimLq2aVG,52,pop
+389,Run Up (feat. PARTYNEXTDOOR & Nicki Minaj),"Major Lazer, PARTYNEXTDOOR, Nicki Minaj",2018-10-19,49zMj9UjQ0IGksOO2VuhZX,52,pop
+390,I'm Upset,Drake,2018-06-29,3qN5qMTKyEEmiTZD38BNTT,59,pop
+391,Malibu Nights,LANY,2018-10-05,0Eqg0CQ7bK3RQIMPw1A7pl,69,pop
+392,Dona de mim,IZA,2018-04-27,0H8CBal2Dcu5Yc001VotZN,61,pop
+393,Paracetamolo,Calcutta ,2018-05-25,4OQ1G3dyVx0SPUzBiWCNat,53,pop
+394,Gololih,7-Toun,2018,6RWrxhIsU5UIqx5EOCm3Kt,40,pop
+395,Felicità puttana,Thegiornalisti,2018-09-21,695AOnYHYnvHIMaTNKjkA5,56,pop
+396,Summer Sun,Cari Cari,2018-11-02,20RzArTj8t5exuBbnszRLz,51,pop
+397,Amoureux Tombé,"Lbenj, Mounim Slimani, DJ Med",2018-09-27,21ZkPfJ0kkZYmz6BWMJLjX,40,pop
+398,Guatemala - From Swaecation,"Rae Sremmurd, Swae Lee, Slim Jxmmi",2018-05-04,0TCnOEVeLQMXOUrpPlM7uY,56,pop
+399,HANN (Alone),(G)I-DLE,2018-08-14,7gr57cYekMWriyJYbT7oZ4,54,pop
+400,Ouvi Dizer,Melim,2018-06-08,1qCLx3nX25NuhfPjM5E1qV,61,pop
+401,Vincent,Ellie Goulding,2018-02-14,6OkfJkVO5anGzXuSFzMBD7,50,pop
+402,That’s How You Feel,Drake,2018-06-29,41a7dZcq30Ss5kPMayWRV0,58,pop
+403,L’amour en Solitaire,Juliette Armanet,2018-06-22,0d8umBN0EQqPyYPWFnUM22,52,pop
+404,Cumbia Chonera,Don Medardo y sus Players Mauricio Luzuriaga,2018,0PniWiJeVL4tyF4BVItzHW,42,pop
+405,Ta marinière,Hoshi,2018-11-30,2JFmiASjHttT8AK7WeZjAb,59,pop
+406,Медуза,MATRANG,2018-05-25,1sZsTb461mhIAQ8o0gzxsI,58,pop
+407,Toto (feat. RAF Camora),"Noizy, RAF Camora",2018-06-15,1fyvQWmRbW81M0xXKI1Rrk,60,pop
+408,Why,Bazzi,2018-04-12,7lozLnUfzcgEpMMVQI7yhA,60,pop
+409,Bwo,Jul,2018-06-29,4De1ry2yC79qVUR2So9to8,54,pop
+410,Amore e Capoeira,"Takagi & Ketra, Giusy Ferreri, Sean Kingston",2018-06-01,5Vwqy3CS2aCB6jcgm1qWfk,52,pop
+411,Laps Around The Sun,Ziggy Alberts,2018-11-09,6TfJaJV86gzlrXy1K0S5Wp,53,pop
+412,Te Soñe,Ala Jaza,2018-08-24,7m9VHNZVWL3cd8AHiCCRpu,42,pop
+413,Mirror,Madison Ryann Ward,2018-04-06,5G2Q4Vx9zwBAdQoEWgM8uX,59,pop
+414,Balade brésilienne,"Gaël Faye, Flavia Coelho",2018-11-02,1ctwXQLrWGY67DSxQgnNlt,49,pop
+415,حبه جنة,Sherine,2018-10-24,2QK9spxKFUWe7zeirPHf5O,59,pop
+416,Sar Far,Zina Daoudia,2018-06-16,7bta3aMgpOP7ZJNLGkW1No,40,pop
+417,Dor Sa Te Ador,"Doddy, Lora",2018-06-12,5w3USA7vA4NTm9UEozPfe5,45,pop
+418,Vamos Pa la Playa,Kafu Banton,2018-05-07,1KQXZybrY276pMRpzX6q4m,48,pop
+419,Time for the moon night,GFRIEND,2018-04-30,3LLhE8SrCkXGLjZOFwEhVC,57,pop
+420,I Always Wanna Die (Sometimes),The 1975,2018-11-30,7iPlcFvOMOzt6v0QvcAueZ,59,pop
+421,"Ai, Amor",ANAVITÓRIA,2018-08-03,3bR8wBqLky6b61ROJlaBEF,64,pop
+422,Sheitana (feat. Ninho),"Hornet La Frappe, Ninho",2018-09-21,1GOIfWQmA3Tp6GlwcCd35K,57,pop
+423,Tmax 530,Maes,2018-03-02,7DUwml6dVQTkuPaKb2fMSR,55,pop
+424,Cobaia,"Lauana Prado, Maiara & Maraisa",2018-06-08,1xyVMQx51Kab6eLVtE6twx,64,pop
+425,J'attends,"Ben Mazué, Pomme",2018-11-09,2EjSObddqmZPzlcoket9WV,52,pop
+426,Claramente,Chano,2018-12-17,7zsgBOY20sX0Z8L4RTdU3Y,55,pop
+427,Walls,The Lumineers,2018-10-02,6RJsITFRctMBtnDYYEvpUy,53,pop
+428,Wicked Games,Kiana Ledé,2018-07-13,0TYhf0MgEj4YJaKwo5c4Km,60,pop
+429,Elli Baana,Ragheb Alama,2018-06-14,28bdcUznUDPjJEujZCABes,51,pop
+430,A la Folie,Juliette Armanet,2018-06-22,6EkR0w8oSHHuONFPsZW485,50,pop
+431,Dawood,Sidhu Moose Wala,2018-10-18,2erjvSbTPKGalbZZhPgcCL,64,pop
+432,Nera,Irama,2018-06-01,6Lc0La3OwOmAouQjbID4uX,53,pop
+433,Lençol Dobrado,"João Gustavo e Murilo, Analaga",2018-06-08,72xB2J9ZeBl0Rzxq2XmzdY,65,pop
+434,Nada De Nada,Marco di Mauro,2018-02-12,4oAXfBdNH0qHr32w82E8dg,57,pop
+435,Вечера,Rauf & Faik,2018-09-28,21tTRofoXdyMJ5K31yX830,58,pop
+436,Uno squillo,Capo Plaza,2018-04-20,7zivIUyCw9MmYftdcayXnN,57,pop
+437,Quem Me Dera,Mariza,2018-05-25,6VBGMZQiblFsl2Ne7g8IVL,42,pop
+438,Carnavalintro,Chano,2018-12-17,6XxIFsqBxiUct0UK7deoJ0,52,pop
+439,Sucette (feat. Niska),"Aya Nakamura, Niska",2018-11-02,3qHs2PoiJMPvdxgyRSvqAl,48,pop
+440,Giovane fuoriclasse,Capo Plaza,2018-04-20,60muwbD6E61lEYQSnEYlLc,53,pop
+441,Il ballo delle incertezze,Ultimo,2018-02-09,0Wq6iAraiUpSbBSPmv4gLu,53,pop
+442,AYER TE VI (feat. Zoe Gotusso),"LOUTA, Zoe Gotusso",2018-10-12,7gfyrnHMieXMjIW4n2p5wf,49,pop
+443,Perdi mi amor,Andy El Unico,2018-08-03,0JbUojx7kyiv7tSPxICWTx,42,pop
+444,Untouchable,"MiyaGi & Endspiel, Rem Digga",2018-11-14,2JjZQ0puhcx8wXdGN3GGli,57,pop
+445,Badna Nwalee El Jaw,Nancy Ajram,2018-09-07,3kBFWV7Q6QzPhAtyMAjjM8,51,pop
+446,Fever,Wizkid,2018-09-30,5mN3xSyvCmFy1jkdA98IfS,51,pop
+447,Questa nostra stupida canzone d'amore,Thegiornalisti,2018-09-21,1Kw6V4wiZKTVwLZ5YcYJR3,54,pop
+448,Non Abbiamo Età,Luchè,2018-06-29,0NwuXciw6eQc4edjwSBnV3,59,pop
+449,Sempre In Due,Carl Brave x Franco126,2018-02-16,6ElWuGFrYbsf2mdHWUoGCk,57,pop
+450,PUSH BACK,"Ne-Yo, Bebe Rexha, Stefflon Don",2018-06-08,4JS7PwFSIt32LBRGl4nM0A,53,pop
+451,"Dollar - From ""Dakuaan Da Munda""","Sidhu Moose Wala, Byg Byrd",2018-08-05,7rXDc2ImBGwcypUFbNqbFB,63,pop
+452,Un Poco,Ninho,2018-03-30,3MVTefqbeNX5yHFOmnHy3X,61,pop
+453,Ring (feat. Kehlani),"Cardi B, Kehlani",2018-04-06,5DfWF0jqMgZDCiu9zJENTA,61,pop
+454,Querida Rosa,Cami,2018-06-08,6wBrZZ1LyiBxytLnpgnlhf,48,pop
+455,Aline,Therapie TAXI,2018-06-20,2GdQWH8tkjfX9V4Ay296PE,49,pop
+456,IL CIELO NELLA STANZA (feat. NSTASIA),"Salmo, NSTASIA",2018-11-09,2fkVZYFv9hOejIsLzZy8ad,57,pop
+457,ヒッチコック,ヨルシカ,2018-05-09,153lRbNmhQZVi69kbhmjY8,59,pop
+458,Viens on s’aime,Slimane,2018-01-26,1KSFqVqZm5QQXr9FLsppSL,50,pop
+459,Fire Man,MiyaGi & Endspiel,2018-07-20,71hUNAiuvPyzaQGVYQtqlF,54,pop
+460,Long As I Live,Toni Braxton,2018-03-23,7A0IJM6FR1HQphfdfN66pI,50,pop
+461,In Love,"MiyaGi & Endspiel, KADI",2018-07-30,5rouo21ZAmlwYc1KLjZ4HX,54,pop
+462,2% (feat. Frah Quintale),"Guè, Frah Quintale",2018-11-29,5ODlTG5qxhCsC05E36Rv25,58,pop
+463,Don’t,"Loco, HWASA",2018-04-21,4MidkNeonif4PcWSjkwOb7,53,pop
+464,Pa Callar Tus Penas,Cami,2018-06-08,3S29OviwTGF2T4Goi1kbTk,46,pop
+465,Cascare nei tuoi occhi,Ultimo,2018-02-09,60oJSn5MTG2VNvCJKwd65M,52,pop
+466,Case,Teni,2018-10-19,5HqngsF3BE19077Ilnw7N5,52,pop
+467,年少有為,Ronghao Li,2018-10-17,6XY80Ofqd8j0SGiEdRLwCp,57,pop
+468,Ay Tenli Kadın,Ufuk Beydemir,2018-03-23,4hv9mEWi4911k1uhU4fPEH,58,pop
+469,BBIBBI,IU,2018-10-10,4as4XEOR03oGm1STUKl6pa,58,pop
+470,Thick And Thin,LANY,2018-10-05,3D110t9ctcoOoylXsc3iR8,64,pop
+471,Thru Your Phone,Cardi B,2018-04-06,74cVJfmK18rhWnscIpGXjt,67,pop
+472,Be Careful,Cardi B,2018-04-06,2Yl4OmDby9iitgNWZPwxkd,64,pop
+473,Te parler pour rien,Hoshi,2018-11-30,3Py9G0U43KI1L8m2fDWTam,52,pop
+474,We Go Up,NCT DREAM,2018-09-03,26vOBLHS116a4WNUVlvAUW,57,pop
+475,J'aime Bien!,Josman,2018-09-14,4eWcCSJEe0d1gCEdKqyiHS,62,pop
+476,Tiago,Kendji Girac,2018-08-31,63eflEIBAF5VmO5AdVuZF7,51,pop
+477,Я люблю тебя,Rauf & Faik,2018-09-28,01bfGEk9QAfTky6HqqpWR9,57,pop
+478,Pesto,Calcutta ,2018-05-25,4UHDgfDtSSv9SqyfEFr4sF,51,pop
+479,Dari Ya Alby,Hamza Namira,2018-02-08,03OoXcz5TPOCyU6RTR1bgk,55,pop
+480,Billets verts,Maes,2018-11-29,3uTNli5uz5rNOqD6qZFi8L,53,pop
+481,"Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix","Ty Dolla $ign, The Weeknd, Wiz Khalifa, DJ Mustard",2018-09-28,1Has1GQfJPjAxwKuyWHgu6,55,pop
+482,Vermedin,"Umut Timur, MRC",2018-04-18,2KhbRuWQmIRK9pKNqFk14F,54,pop
+483,Каждый раз,Monetochka,2018-05-25,4IjiY0sShCYUEEoOSEwsgY,53,pop
+484,Motigbana,Olamide,2018-08-14,6AYPyB4mgQIGeU0Xab4ONQ,46,pop
+485,So Mi So,Wande Coal,2018-05-07,2KG2MggKHSVTKR8nLJX8DV,50,pop
+486,Kid,Eddy de Pretto,2018-03-02,1EIhcoMZ3See5L28kNvuFe,53,pop
+487,With You,Mokita,2018-10-19,5Lu0vv78RmKZeBPpP1N8za,54,pop
+488,Bayen Habeit,"Marshmello, Amr Diab",2018-09-28,29KS7kBSU77PrYGB6RVR5O,52,pop
+489,Cause You Are Young,C.C. Catch,2018-10-05,1m21vtDDQccnhpgJT1fxip,44,pop
+490,Ne è valsa la pena (feat. Ghali),"Capo Plaza, Ghali",2018-04-20,6GTCOWvhjvdk4pwlfrSjNO,54,pop
+491,静悄悄,大泫,2018-07-04,751bgbxEOI9bjbTO88EKIb,53,pop
+492,Arrivant,Timal,2018-04-27,6dN7nkvH6HaRxVQETt6agT,55,pop
+493,Diego Armando Maradona,Dark Polo Gang,2018-01-05,11WjARz3hZxb08ru2M9RbN,58,pop
+494,Jogo do Amor,MC Bruninho,2018-05-08,3MxbRHE1u74SoMNR9iURIZ,52,pop
+495,Jatt Da Muqabala,Sidhu Moose Wala,2018-10-18,71Udwiv5GsZghU6XQ5LXQj,60,pop
+496,الكدابين,Sherine,2018-10-24,6OvHZA4I4Nl1F0Brs8nPkR,52,pop
+497,La stella più fragile dell'universo,Ultimo,2018-02-09,3iHqUSg0LBRxAF5CzjBK9y,51,pop
+498,REVIVER,MY FIRST STORY,2018-10-17,1p6WtbNY4bDjiFBmSZolJY,50,pop
+499,Our dawn is hotter than day,SEVENTEEN,2018-07-16,2EGRE8lyfRRGuq7spra3eR,57,pop

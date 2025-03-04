@@ -1,0 +1,501 @@
+,track_name,artist_name,release_date,id_track,popularity,genero
+0,Tiroteo - Remix,"Marc Seguí, Rauw Alejandro, Pol Granch",2021-04-01,4OwhwvKESFtuu06dTgct7i,78,pop
+1,Mon Amour - Remix,"zzoilo, Aitana",2021-08-18,5TMLavqGRKNxgzMBrVpC9R,72,pop
+2,La Old Skul,Rauw Alejandro,2021-12-10,4Z8HZSApeddaRM2ovivUj4,75,pop
+3,Desesperados,"Rauw Alejandro, Chencho Corleone",2021-12-10,6mmPpaltUZK7xjNlBPQQ0p,74,pop
+4,Todo De Ti,Rauw Alejandro,2021-12-10,3rdAz1fbUfZxYgaCviYhRo,76,pop
+5,Cúrame,Rauw Alejandro,2021-12-10,1FlL8ycld6uVDDyhV7P5FA,70,pop
+6,Exoplaneta,Arde Bogotá,2021-05-07,68PEuXNjodWFts3Ph4BPVv,56,pop
+7,Una Foto en Blanco y Negro,"David Otero, Taburete",2021-03-05,1iBZ1b5ULbGnyhq5Xhpqql,57,pop
+8,Libertad,Nil Moliner,2021-10-22,1kG7gfH4HDUlDht0VZYkiP,56,pop
+9,La Magia,"Galvan Real, Raul Camacho",2021-02-21,1uw6eHdMtRlX6MtiZVJYB9,57,pop
+10,Flamenco y Bachata,Daviles de Novelda,2021-02-14,6ynErSDSlxqsxg0D3LJ8sK,56,pop
+11,En Sueños,"Luis Cortés, Zaira",2021-06-18,3YFfdub6AUsrzdcBTeWIQL,55,pop
+12,Gitana,MARLENA,2021-07-22,1voueLCs7g2cD8NLHg1Iz7,55,pop
+13,"Tiago PZK: Bzrp Music Sessions, Vol. 48","Bizarrap, Tiago PZK",2021-12-29,6VAS7m73rDopQe7BdrFMpD,66,pop
+14,La Niña de la Escuela,"Lola Indigo, TINI, Belinda",2021-07-01,1g4cZvi0nLeeIycd0Rkljj,60,pop
+15,Tacones Rojos,Sebastian Yatra,2021-10-22,0Be7sopyKMv8Y8npsUkax2,66,pop
+16,drivers license,Olivia Rodrigo,2021-05-21,5wANPM4fQCJwkGd4rN57mH,80,pop
+17,"Eladio Carrion: Bzrp Music Sessions, Vol. 40","Bizarrap, Eladio Carrion",2021-06-09,1VauUM5CBX7nkLcgafQL2B,65,pop
+18,Cariño,Arde Bogotá,2021-05-07,7uWmMWEBGlBAm5B0oMpcs8,54,pop
+19,Easy On Me,Adele,2021-11-19,46IZ0fSY2mpAiktS3KOqds,79,pop
+20,Quiéreme Mientras Se Pueda,Manuel Turizo,2021-04-09,1WH3iquIQXnSPwUzlROT8R,70,pop
+21,Shivers,Ed Sheeran,2021-10-25,50nfwKoDiSYg8zOCREWAm5,79,pop
+22,A Dónde Vamos,Morat,2021-07-16,21t07fSxEHAjazqclabTEJ,68,pop
+23,Formentera,"Aitana, Nicki Nicole",2021-12-02,3nfICwo20uiFdEGzgNUSrG,57,pop
+24,Mala Vida,Luis Cortés,2021-02-19,3IT1XT70SguZjuUiKiUu89,53,pop
+25,Todo De Ti,Rauw Alejandro,2021-05-20,4fSIb4hdOQ151TILNsSEaF,68,pop
+26,"Morad: Bzrp Music Sessions, Vol. 47","Bizarrap, Morad",2021-12-08,39yyHtQ4tkjZzd8TfIBKQw,61,pop
+27,Vida de Rico,Camilo,2021-03-04,4nTduFjaTmGysc9WKNuCcs,67,pop
+28,BEBÉ,"Camilo, El Alfa",2021-03-04,3Zf4GutWZ7Hv3wsVQsSQPs,68,pop
+29,Pareja Del Año,"Sebastian Yatra, Myke Towers",2021-04-16,2rCbl9naJYhaxjLsfx88uM,65,pop
+30,Volví,"Aventura, Bad Bunny",2021-08-03,2vmfvSoZBFAt9hhRoEByLi,71,pop
+31,911 (Remix),"Sech, JHAYCO",2021-07-09,27RSJHEA99Y0Vsow7nA37A,63,pop
+32,Cosa Guapa,Rauw Alejandro,2021-12-10,7aWiJeMyxxPEyjwvZyauAF,68,pop
+33,Te debo una canción,Shinova,2021-02-26,6E4Z9YuZz9VA7NxXxshXQx,52,pop
+34,La sonrisa intacta,Shinova,2021-02-26,52Pxn490S6sTjhXgyfeSbk,52,pop
+35,FRIKI,"Feid, KAROL G",2021-12-17,2WrqTrNIHqfcMCgmEo0A7E,68,pop
+36,Abajo,Arde Bogotá,2021-05-07,45ucex4am8ru040h5mhxuo,52,pop
+37,A ver qué pasa - Estrella Damm 2021,Rigoberta Bandini,2021-06-16,2F76kzOWgd3n6GwoKpRSTX,52,pop
+38,El Beso,Arde Bogotá,2021-05-07,325R4okpFnhCZ8guXOH0Ah,51,pop
+39,Millones,Camilo,2021-03-04,3YAnNBdk0uHyakXXzMbNJq,65,pop
+40,Miénteme,"TINI, Maria Becerra",2021-04-29,0cOa970mzTWAxKtltpkpLc,65,pop
+41,Aloha,"Maluma, Beéle, Rauw Alejandro, Mambo Kingz, DJ Luian, Darell",2021-03-05,5RAIMjdrCEjpjaR5tBATXU,66,pop
+42,Desenfocao',Rauw Alejandro,2021-12-10,2CEf2gU5ZJamLXa3NrgAvA,72,pop
+43,good 4 u,Olivia Rodrigo,2021-05-21,4ZtFanR9U6ndgddUvNcjcG,78,pop
+44,I WANNA BE YOUR SLAVE,Måneskin,2021-03-19,4pt5fDVTg5GhEvEtlz9dKk,77,pop
+45,you broke me first,Tate McRae,2021-03-26,4l0RmWt52FxpVxMNni6i63,80,pop
+46,deja vu,Olivia Rodrigo,2021-05-21,6HU7h9RYOaPRFeh0R3UeAr,80,pop
+47,Aquel Nap ZzZz,Rauw Alejandro,2021-12-10,5bQLsyTrUaMQRfr6whwGe5,68,pop
+48,Happier Than Ever,Billie Eilish,2021-07-30,4RVwu0g32PAqgUiJoXsdF8,80,pop
+49,Sexo Virtual,Rauw Alejandro,2021-12-10,1lV3QHHMAQt0Kc1ioZq2MP,66,pop
+50,Easy On Me,Adele,2021-10-14,0gplL1WMoJ6iYaPgMCL0gX,75,pop
+51,Bad Habits,Ed Sheeran,2021-10-25,3rmo8F54jFF8OgYsqTxm5d,75,pop
+52,Do It To It,"ACRAZE, Cherish",2021-08-20,20on25jryn53hWghthWWW3,73,pop
+53,Woman,Doja Cat,2021-06-25,6Uj1ctrBOjOas8xZXGqKk4,79,pop
+54,Kiss Me More (feat. SZA),"Doja Cat, SZA",2021-06-25,3DarAbFujv6eYNliUTyqtz,79,pop
+55,Enamórate De Alguien Más,Morat,2021-07-16,1pDgS6HDNrrIawdhYEvI0s,67,pop
+56,SI TÚ SUPIERAS - Bonus Track,Feid,2021-08-20,1SCYfmGM5ueb6YiiQbLXVn,68,pop
+57,happier,Olivia Rodrigo,2021-05-21,2tGvwE8GcFKwNdAXMnlbfl,78,pop
+58,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,"Riton, Nightcrawlers, Mufasa & Hypeman, Mufasa, Dopamine",2021-01-15,4cG7HUWYHBV6R6tHn1gxrl,72,pop
+59,Leave Before You Love Me (with Jonas Brothers),"Marshmello, Jonas Brothers",2021-05-21,4qu63nuBpdn0qHUHuObEj1,75,pop
+60,Ghost,Justin Bieber,2021-03-19,6I3mqTwhRpn34SLVafSH7G,79,pop
+61,Don't Be Shy,"Tiësto, KAROL G",2021-08-12,0bI7K9Becu2dtXK1Q3cZNB,68,pop
+62,"jealousy, jealousy",Olivia Rodrigo,2021-05-21,0MMyJUC3WNnFS1lit5pTjk,77,pop
+63,Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, JID, Arcane, League of Legends",2021-10-28,1r9xUipOqoNwggBpENDsvJ,73,pop
+64,Idiota,"Morat, Danna Paola",2021-07-16,0cS0bJ0oBylj3TFtz6x9pC,65,pop
+65,2/Catorce,"Rauw Alejandro, Mr. Naisgai",2021-12-10,78QcVmzxS0wIwuC2rpAauI,65,pop
+66,You Belong With Me (Taylor’s Version),Taylor Swift,2021-04-09,1qrpoAMXodY6895hGKoUpA,76,pop
+67,Manos de Tijera,Camilo,2021-03-04,2f8sB9lQ6Uh1lKKWJNR9rW,65,pop
+68,Where Are You Now,"Lost Frequencies, Calum Scott",2021-07-30,3uUuGVFu1V7jTQL60S1r8z,73,pop
+69,YaMeFui,"Bizarrap, Duki, Nicki Nicole",2021-07-28,42ahuAFlYGjIGBpVdHcLij,58,pop
+70,Fair Trade (with Travis Scott),"Drake, Travis Scott",2021-09-03,40iJIUlhi6renaREYGeIDS,75,pop
+71,Peaches (feat. Daniel Caesar & Giveon),"Justin Bieber, Daniel Caesar, GIVĒON",2021-03-19,4iJyoBOLtHqaGxP12qzhQI,75,pop
+72,My Universe,"Coldplay, BTS",2021-09-24,3FeVmId7tL5YN8B7R3imoM,71,pop
+73,como si no importara,"Emilia, Duki",2021-07-13,1GYJpuLq41vEVKXiHGEY9j,58,pop
+74,Save Your Tears (with Ariana Grande) (Remix),"The Weeknd, Ariana Grande",2021-04-23,37BZB0z9T8Xu7U3e65qxFy,73,pop
+75,La street,"Jul, Morad",2021-12-10,29n9av2AJlYDHtqfuv0X04,59,pop
+76,My Universe,"Coldplay, BTS",2021-10-15,46HNZY1i7O6jwTA7Slo2PI,72,pop
+77,Sobrio,Maluma,2021-07-08,4HzqWEdAbzcVFDv0pvxV4w,64,pop
+78,Chemtrails Over The Country Club,Lana Del Rey,2021-03-19,7bPWdJgx8vek7S5i5yAtvG,76,pop
+79,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",2021-11-11,02VBYrHfVwfEWXk5DXyf0T,74,pop
+80,Índigo,"Camilo, Evaluna Montaner",2021-10-13,4knc1Fp3kbuq8bH2byOvLu,62,pop
+81,Mood (feat. iann dior),"24kGoldn, iann dior",2021-03-26,4jPy3l0RUwlUI9T5XHBW2m,74,pop
+82,"L-Gante: Bzrp Music Sessions, Vol.38","Bizarrap, L-Gante",2021-03-10,1Crj1zkRMpsEjb9NOR6Zof,60,pop
+83,Billie Bossa Nova,Billie Eilish,2021-07-30,2KnuaZYoGzDoHiBTNYOTXG,74,pop
+84,No Hay Más Que Hablar,Morat,2021-07-16,0PrD2VArqOuweEzhnpdM89,64,pop
+85,Earned It (Fifty Shades Of Grey),The Weeknd,2021-02-05,1cQ3LIkZE68pMSnPhZWXLu,72,pop
+86,KESI - Remix,"Camilo, Shawn Mendes",2021-07-14,0IqCoZ168iRc9LqfrYgpZy,62,pop
+87,The Color Violet,Tory Lanez,2021-12-10,3azJifCSqg9fRij2yKIbWz,81,pop
+88,ZITTI E BUONI,Måneskin,2021-03-19,776AftMmFFAWUIEAb3lHhw,68,pop
+89,Something About You,"Eyedress, Dent May",2021-08-27,6RiiSy9GzSwiyDEJDiMuKe,78,pop
+90,Tiroteo,"Marc Seguí, Pol Granch",2021-01-15,05HpBFLrHBjWpgV0DSPUAv,63,pop
+91,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,2021-11-12,5enxwA8aAbwZbf5qCHORXi,75,pop
+92,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),"Tainy, Bad Bunny, Julieta Venegas",2021-10-05,4gzsuuZypVbxs0Af1LSZyB,67,pop
+93,Machu Picchu,"Camilo, Evaluna Montaner",2021-03-04,6RV9pRLIQiXm3qTGeyQluf,63,pop
+94,The Motto,"Tiësto, Ava Max",2021-11-04,18asYwWugKjjsihZ0YvRxO,70,pop
+95,OUT OUT (feat. Charli XCX & Saweetie),"Joel Corry, Jax Jones, Charli xcx, Saweetie",2021-08-13,6Dy1jexKYriXAVG6evyUTJ,68,pop
+96,Pray For Me,"The Weeknd, Kendrick Lamar",2021-02-05,6huNf4dutXRjJyGn7f5BPS,74,pop
+97,CORALINE,Måneskin,2021-03-19,7HMz8o0m7ASQ3ImFPfhWTY,66,pop
+98,AMOR DE MI VIDA,Feid,2021-12-17,2C6eINAA8cO6e5a8PjnWsK,62,pop
+99,brutal,Olivia Rodrigo,2021-05-21,6SRsiMl7w1USE4mFqrOhHC,72,pop
+100,AMOR DE MI VIDA,Feid,2021-12-17,2C6eINAA8cO6e5a8PjnWsK,62,pop
+101,brutal,Olivia Rodrigo,2021-05-21,6SRsiMl7w1USE4mFqrOhHC,72,pop
+102,Halley's Comet,Billie Eilish,2021-07-30,5XsAal7ZcWg1I5T4NcRjkv,73,pop
+103,Love Story (Taylor’s Version),Taylor Swift,2021-04-09,6YvqWjhGD8mB5QXcbcUKtx,72,pop
+104,Ella - Remix,"Boza, Lunay, Lenny Tavárez, Juhn, Beéle",2021-10-29,7iHHlCbsFou5DZSW5HCPfs,58,pop
+105,Your Power,Billie Eilish,2021-07-30,042Sl6Mn83JHyLEqdK7uI0,71,pop
+106,Dance Monkey,Tones And I,2021-07-16,2N8m6CYs74qQO4mjVcXO30,69,pop
+107,I Follow Rivers - The Magician Remix,"Lykke Li, The Magician",2021-07-16,3zNNXjjjeLrzIXSJZKalDi,65,pop
+108,Higher Power,Coldplay,2021-05-07,0939D7aT18uBDS2MTjWzct,65,pop
+109,Papel,"Rim'K, Morad",2021-08-27,2OqfQTMNm4NC4ZsyhectJ1,55,pop
+110,Pain,PinkPantheress,2021-10-15,4S4QJfBGGrC8jRIjJHf1Ka,78,pop
+111,Machu Picchu,"Camilo, Evaluna Montaner",2021-03-01,1LXb70u8SLsvBAPWHMCTMe,63,pop
+112,No Wahala,1da Banton,2021-07-23,4vHy2IHzf3EabEa7oMpUZB,68,pop
+113,We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,2021-11-12,5YqltLsjdqFtvqE7Nrysvs,69,pop
+114,Love Story (Taylor’s Version),Taylor Swift,2021-02-12,3CeCwYWvdfXbZLXFhBrbnf,73,pop
+115,Mónaco,"LAGOS, Danny Ocean",2021-05-28,3HgvO4B5LLmdPOT2d8cSZd,72,pop
+116,Run,OneRepublic,2021-08-27,6KL88T4Ma4ABXqzgUoEwkd,70,pop
+117,Yebba’s Heartbreak,"Drake, Yebba",2021-09-03,1PDP7mLiAMwhfmgIwzhOm2,74,pop
+118,MONEY,LISA,2021-09-10,7hU3IHwjX150XLoTVmjD0q,69,pop
+119,DUELE EL CORAZON,"Enrique Iglesias, Wisin",2021-09-17,5adqS3stLaSPAEOszOnpXG,63,pop
+120,Enemy - From the series Arcane League of Legends,"Imagine Dragons, Arcane, League of Legends",2021-10-27,5UlnuulVAVmmesw4VzqHdG,67,pop
+121,Kiss Me More (feat. SZA),"Doja Cat, SZA",2021-04-09,3DarAbFujv6eYNliUTyqtz,57,pop
+122,SUBEME LA RADIO,"Enrique Iglesias, Descemer Bueno, Zion & Lennox",2021-09-17,0mnAmQX1pciMncT2qFCNmK,62,pop
+123,The Way I Loved You (Taylor’s Version),Taylor Swift,2021-04-09,22bPsP2jCgbLUvh82U0Z3M,71,pop
+124,abcdefu,GAYLE,2021-08-13,4fouWK6XVHhzl78KzQ1UjL,70,pop
+125,NDA,Billie Eilish,2021-07-30,38GBNKZUhfBkk3oNlWzRYd,73,pop
+126,Playground (from the series Arcane League of Legends),"Bea Miller, Arcane, League of Legends",2021-11-05,0eSKFjwdh7uOJZ7me6YbaN,67,pop
+127,Need to Know,Doja Cat,2021-06-25,3Vi5XqYrmQgOYBajMWSvCi,74,pop
+128,Envolver,Anitta,2021-11-11,3IAfUEeaXRX9s9UdKOJrFI,66,pop
+129,Oh My God,Adele,2021-11-19,3Kkjo3cT83cw09VJyrLNwX,69,pop
+130,Heavy,The Marías,2021-06-25,1ShRHPAiiIrh0arZbSFmx1,78,pop
+131,Let Somebody Go,"Coldplay, Selena Gomez",2021-10-15,4cGqn0E8JCSY9gQllQj4Mf,65,pop
+132,Amour plastique,"Videoclub, Adèle Castillon, Mattyeux",2021-01-29,269XSeQhDrWEotMALJaACW,68,pop
+133,Remember,"Becky Hill, David Guetta",2021-06-18,4laAKIq9ZxBCwf99rauPYb,67,pop
+134,Heartbreak Anthem (with David Guetta & Little Mix),"Galantis, David Guetta, Little Mix",2021-05-20,5K6Ssv4Z3zRvxt0P6EKUAP,65,pop
+135,What Could Have Been (from the series Arcane League of Legends),"Sting, Ray Chen",2021-11-20,6YB9jhzVEzw8CKeXD7Vx8j,66,pop
+136,I Drink Wine,Adele,2021-11-19,6v0UJD4a2FtleHeSYVX02A,68,pop
+137,BED,"Joel Corry, RAYE, David Guetta",2021-02-26,0siYMEsGrzzzlWLXK5zJfS,64,pop
+138,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),"Amaarae, Kali Uchis, MOLIY",2021-09-16,09gysnJpfQ3ublBmJDfcEC,71,pop
+139,These Boots Are Made for Walkin',Nancy Sinatra,2021-02-05,2HEgBBls7l0smWTxPx0MtZ,62,pop
+140,Roi,"Videoclub, Adèle Castillon, Mattyeux",2021-01-29,7LPGJhkRDEW6KopWhD8DbX,70,pop
+141,You Right,"Doja Cat, The Weeknd",2021-06-25,0k4d5YPDr1r7FX77VdqWez,73,pop
+142,Lonely (with benny blanco),"Justin Bieber, benny blanco",2021-03-19,3S8jK1mGzQi24ilFb45DAZ,67,pop
+143,hope ur ok,Olivia Rodrigo,2021-05-21,1zejeOnykpCoyVSit6Bwp3,68,pop
+144,Getting Older,Billie Eilish,2021-07-30,4HOryCnbme0zBnF8LWij3f,69,pop
+145,Los Tragos,"Reik, Maria Becerra",2021-11-25,7iXJg4IUyrWont5YSQrbKP,60,pop
+146,Memories (feat. Kid Cudi) - 2021 Remix,"David Guetta, Kid Cudi",2021-01-08,59o6ojGNGJOYiVJSzC6Lsa,66,pop
+147,La Distancia,Manuel Medrano,2021-10-01,0LpEr3qpmDQ1gEabnsQlGC,68,pop
+148,Higher Power,Coldplay,2021-10-15,65OR4ywy8Cgs3FDHK82Idl,62,pop
+149,right where you left me - bonus track,Taylor Swift,2021-01-07,3zwMVvkBe2qIKDObWgXw4N,71,pop
+150,I Knew You Were Trouble (Taylor's Version),Taylor Swift,2021-11-12,6AtZLIzUINvExIUy4QhdjP,68,pop
+151,Therefore I Am,Billie Eilish,2021-07-30,20R4HfKloPKgXDqU7UKk3x,70,pop
+152,CHIMBITA,"Feid, Sky Rompiendo",2021-08-20,35xvhWIZMpsDcJxr14Ukbx,60,pop
+153,Fearless (Taylor’s Version),Taylor Swift,2021-04-09,77sMIMlNaSURUAXq5coCxE,71,pop
+154,Overwhelmed (Ryan Mack Remix),Ryan Mack,2021-07-14,03eyNjBM2mpx28H6kdaufN,69,pop
+155,It'll Be Okay,Shawn Mendes,2021-12-01,2KnLkZ3z7PO3kgVGHGqDpD,67,pop
+156,VACAXIONES,Feid,2021-12-17,5QLs1kIWkkxcdUBfTkqWBX,55,pop
+157,Guaro (Remix),"Pipe Bueno, Jessi Uribe, Yeison Jimenez, Carin Leon, Alzate, Darío Gómez, Luis Alberto Posada, El Charrito Negro, Jhonny Rivera, Jhon Alex Castaño",2021-09-16,5sMHuOIvtsSuFZafTcF19Q,62,pop
+158,TENGO FE,Feid,2021-08-20,57pkksnRS4NOOphTmoRlK2,58,pop
+159,I Didn't Change My Number,Billie Eilish,2021-07-30,7bcy34fBT2ap1L4bfPsl9q,70,pop
+160,Beautiful Mistakes (feat. Megan Thee Stallion),"Maroon 5, Megan Thee Stallion",2021-06-11,5zFglKYiknIxks8geR8rcL,71,pop
+161,Goodbye (from the series Arcane League of Legends),"Ramsey, Arcane, League of Legends",2021-11-05,50qY6EQTt33QAUQnDgbYOS,64,pop
+162,Girls Want Girls (with Lil Baby),"Drake, Lil Baby",2021-09-03,37Nqx7iavZpotJSDXZWbJ3,72,pop
+163,Guns for Hire (from the series Arcane League of Legends),"Woodkid, Arcane, League of Legends",2021-11-13,38x5NsjgoLaYCnhAghHdyo,64,pop
+164,Sunshine,OneRepublic,2021-11-10,5r43qanLhUCdBj8HN3fa6B,67,pop
+165,SI TÚ SUPIERAS,Feid,2021-12-17,6qtDKAKZhJfVziibsoGBBj,58,pop
+166,Red (Taylor's Version),Taylor Swift,2021-11-12,4OAuvHryIVv4kMDNSLuPt6,69,pop
+167,22 (Taylor's Version),Taylor Swift,2021-11-12,3yII7UwgLF6K5zW3xad3MP,68,pop
+168,Acapulco,Jason Derulo,2021-09-03,3eJH2nAjvNXdmPfBkALiPZ,64,pop
+169,Confession,Babyboy AV,2021-10-22,7IAzRTQQz6Aoywj0R1Qce5,65,pop
+170,LALISA,LISA,2021-09-10,7uQZVznj0uQOGC9KhV2Mg6,65,pop
+171,Drunk-Dazed,ENHYPEN,2021-04-26,1wcr8DjnN59Awev8nnKpQ4,69,pop
+172,Living Legend,Lana Del Rey,2021-10-22,6pZ9Nj3vzj1RW4ZkR9GcQ9,68,pop
+173,Pa' Olvidarme De Ella,"Piso 21, Christian Nodal",2021-03-18,3lR4O0vtkhCAvVEUEWUL0S,66,pop
+174,Male Fantasy,Billie Eilish,2021-07-30,4ak9GGe6afmi2HbxEjvhIC,68,pop
+175,Permission to Dance,BTS,2021-07-23,3XYRV7ZSHqIRDG87DKTtry,69,pop
+176,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,2021-08-17,1fKFxmSByZfjwVSbq0PHye,64,pop
+177,Ain't Shit,Doja Cat,2021-06-25,5lAnYvAIkSDNXqfo7DyFUm,72,pop
+178,Wants and Needs (feat. Lil Baby),"Drake, Lil Baby",2021-03-05,65OVbaJR5O1RmwOQx0875b,71,pop
+179,Wasted Love (feat. Lagique),"Ofenbach, Lagique",2021-01-08,2pPO9YecZimmuVQfIzfV6U,58,pop
+180,You,"Regard, Troye Sivan, Tate McRae",2021-04-16,2cc8Sw1OnCuA5bV8nqWqpE,66,pop
+181,Lost Cause,Billie Eilish,2021-07-30,4191RXFPa7Ge9XkA4cWlna,67,pop
+182,Run,OneRepublic,2021-05-05,2UbVnbE5FH6008mAm6Mmgw,65,pop
+183,Rescue Me,OneRepublic,2021-08-27,37LNNQNbL1YLyutBG6aWRx,65,pop
+184,Wildest Dreams (Taylor's Version),Taylor Swift,2021-09-17,1Ov37jtRQ2YNAe8HzfczkL,67,pop
+185,Replay,Tems,2021-09-14,2dFqK2ZkYB9Xc47gr3xXWl,69,pop
+186,rápido lento,"Emilia, Tiago PZK",2021-09-30,4xv2A022v5A8nyewDkYOkQ,54,pop
+187,Hold On,Justin Bieber,2021-03-19,1nahzW3kfMuwReTka28tH5,66,pop
+188,Off My Face,Justin Bieber,2021-03-19,3T03rPwlL8NVk1yIaxeD8U,69,pop
+189,Smokin Out The Window,"Bruno Mars, Anderson .Paak, Silk Sonic",2021-11-11,3xVZYkcuWalGudeKl861wb,68,pop
+190,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",2021-11-12,4pryE6cN2gFL1FVF5fYINl,66,pop
+191,Habibi - Albanian Remix,"Ricky Rich, Dardan, DJ Gimi-O",2021-11-19,2sHYMLUd4nVLxHPKY05Ein,65,pop
+192,Oxytocin,Billie Eilish,2021-07-30,4t2OeILB07eMGTXSUbMPEu,67,pop
+193,my future,Billie Eilish,2021-07-30,3YUMWmx8EJq0DurfuIwoGh,67,pop
+194,"YSY A: Bzrp Music Sessions, Vol. 37","Bizarrap, YSY A",2021-01-27,1xXQCSt0xkfeGhe18ey2p8,53,pop
+195,"Red Lights (Bang Chan, Hyunjin)",Stray Kids,2021-08-23,0LatE4S9UtCDwIdGQsFFKL,65,pop
+196,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),"Taylor Swift, Phoebe Bridgers",2021-11-12,01K4zKU104LyJ8gMb7227B,66,pop
+197,Ghost Town,Benson Boone,2021-10-15,135Lf4Q0CzlMNfOxbEUsLH,65,pop
+198,FEVER,ENHYPEN,2021-04-26,0UzymivvUH5s8z4PeWZJaK,69,pop
+199,Lavender Sunflower,Tory Lanez,2021-12-10,1au2UduxcvHfa0fZS3Szci,70,pop
+200,Matador - Remasterizado 2008,Los Fabulosos Cadillacs,2021-03-05,4bMZ60QNM6OEehI6b8RtS4,61,pop
+201,Angel Baby,Troye Sivan,2021-09-09,2m6Ko3CY1qXNNja8AlugNc,68,pop
+202,Everybody Dies,Billie Eilish,2021-07-30,5jhBwnqzNNrENXnYrAdoCe,64,pop
+203,Not My Responsibility,Billie Eilish,2021-07-30,4T2zre0jqstNJ5Gt0WG9lz,65,pop
+204,Cover Me In Sunshine,"P!nk, Willow Sage Hart",2021-02-12,6Tio0ZoDeSQnI7EBAqWer2,66,pop
+205,Killshot - Slowed + Reverb,Magdalena Bay,2021-02-05,6pdyvJQkPkwo2WoDH7tFHO,68,pop
+206,Fountains (with Tems),"Drake, Tems",2021-09-03,08XWh5c0BMyD1nKVxxl91z,65,pop
+207,INVISIBLE,Duran Duran,2021-10-22,51EpFns3CG9taCMQz6XDom,65,pop
+208,Ghost,Justin Bieber,2021-03-19,5dPz35akJjPqb17yeqNwqH,66,pop
+209,Line of Fire,José González,2021-09-17,1I6LFohPBMnEu9CXamGCwY,57,pop
+210,Dealer,Lana Del Rey,2021-10-22,7iqQz931tn59mK6IZ3knRx,68,pop
+211,夜に駆ける,YOASOBI,2021-01-06,6MCjmGYlw6mQVWRFVgBRvB,67,pop
+212,0X1=LOVESONG (I Know I Love You) feat. Seori,"TOMORROW X TOGETHER, Seori",2021-05-31,1Z8TPHiKeCUyClxV6WTTIf,65,pop
+213,I Must Apologise,PinkPantheress,2021-10-15,2rrq3SGYxk90xLx5fMmPhZ,69,pop
+214,The Feels,TWICE,2021-11-12,308Ir17KlNdlrbVLHWhlLe,66,pop
+215,Don't Start Now,Dua Lipa,2021-02-11,2FlcxnvybdwpaMmMhaRtSN,59,pop
+216,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),"Taylor Swift, Chris Stapleton",2021-11-12,4CkgMiMqZ5JzW9iYXSTMTL,65,pop
+217,Otra Baby,"Akim, Dalex, Beéle, Boza",2021-01-29,4f2nbpKWfnj7tNyL2Ihj9n,49,pop
+218,怪物,YOASOBI,2021-12-01,2vjY3jGKElvqXoaGNEuYef,63,pop
+219,U Are My High (with Future),"DJ Snake, Future",2021-12-03,0ITaSRuI0L1RNL7ZNYTTi7,69,pop
+220,GOLDWING,Billie Eilish,2021-07-30,0FfqyjhB6Kspvit1oOo7ax,64,pop
+221,JORDAN IV,Feid,2021-08-20,5ZyNCQmxZlYZfAHeJXTkI2,53,pop
+222,COMMENT,Feid,2021-12-17,4cjmzyooA8MkQAKrfESAoo,53,pop
+223,Knife Talk (with 21 Savage ft. Project Pat),"Drake, 21 Savage, Project Pat",2021-09-03,2BcMwX1MPV6ZHP4tUT9uq6,72,pop
+224,Le temps,Tayc,2021-02-26,6yIh43XrY4Mc5xOxeagVhp,64,pop
+225,Message In A Bottle (Taylor's Version) (From The Vault),Taylor Swift,2021-11-12,3z6XUommYDWPHeFhmhhT6j,66,pop
+226,Still Sleepless,"D.O.D, Carla Monroe",2021-09-17,4vyG9ZhHT8MKJE5mTICMFC,69,pop
+227,Sometimes (Backwood),Gigi Perez,2021-02-05,1ElGmhauttS9p7LwmHG9uM,68,pop
+228,Way 2 Sexy (with Future & Young Thug),"Drake, Future, Young Thug",2021-09-03,0k1WUmIRnG3xU6fvvDVfRG,69,pop
+229,Champagne Poetry,Drake,2021-09-03,2HSmyk2qMN8WQjuGhaQgCk,67,pop
+230,Need It (feat. YoungBoy Never Broke Again),"Migos, YoungBoy Never Broke Again",2021-06-11,1cMMVJ4FDqhCci9efd1BU6,69,pop
+231,"Santa, Can’t You Hear Me","Kelly Clarkson, Ariana Grande",2021-10-15,2O3MQ6H3gjrIWDcpeTrikT,64,pop
+232,EL PADRINO,Feid,2021-08-20,0zWkVCi9eFjcVAM839IkCZ,52,pop
+233,Abu Simbel,"WhoMadeWho, Rampa",2021-03-04,1Y3yJHrBkkfj3GZKv1MVhF,59,pop
+234,Amoeba,Clairo,2021-07-16,0HAqq2GcQKyi3s87GuN7jU,69,pop
+235,残響散歌,Aimer,2021-12-06,7v8wKvNQQIxkugCFFjrkaO,63,pop
+236,Remember (with David Guetta),"Becky Hill, David Guetta",2021-08-27,6feiJqgHqeSvkGUzf11AYs,62,pop
+237,Stevie Doesn't Wonder,Hotel Ugly,2021-12-07,7BgyWwbbybJr2IbQoI1gzH,68,pop
+238,Hot Air Balloon,"Don Diablo, AR/CO",2021-11-05,67p96tIoC4ESrod9kW331R,63,pop
+239,De Enero a Diciembre,"Emilia, Rusherking",2021-12-15,1p22yVi9e8DT6BEUvOZ0TL,51,pop
+240,That Go! (feat. T-Shyne),"Young Stoner Life, Young Thug, Meek Mill, T-Shyne",2021-04-16,6rUmUJ2drFemHTH73bFAKQ,69,pop
+241,TSU,Drake,2021-09-03,4s7QLoImIwmPi9L6dq1nVW,68,pop
+242,la di die (feat. Jaden Hossler),"Nessa Barrett, jxdn",2021-02-19,3RLshk3cDQOqWhSIRCVaXL,63,pop
+243,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),"Taylor Swift, Ed Sheeran",2021-11-12,7qEUFOVcxRI19tbT68JcYK,65,pop
+244,Merry Christmas,"Ed Sheeran, Elton John",2021-12-03,3bH2Eu9A9ymI4UnGHRmoXg,64,pop
+245,8 DIAX,Feid,2021-12-17,52ZI5nsIiC5Zh6z5ufTYAK,52,pop
+246,Break It Off - Bonus,PinkPantheress,2021-10-15,78ul3D77noQsYjSwvwiPU1,67,pop
+247,TE MATA,Feid,2021-08-20,3eFL5cxO22TpyjK3wNb27q,54,pop
+248,Lady Of Namek,Tory Lanez,2021-12-10,6ieWL5CLN9WdC875guWtMe,67,pop
+249,Si Me Ven Llorando,Jessi Uribe,2021-09-24,5v6eE5Wn65VSoBiJnOUyTm,53,pop
+250,Attracted to You,PinkPantheress,2021-07-09,4fPjI40ElIwJQ4DJJxSCOe,69,pop
+251,AOK,Tai Verdes,2021-05-20,1sx0XsWUusUoPstbvokZjP,64,pop
+252,Never Going Home,Kungs,2021-05-21,0xfMlIW8lS40qvpsUw1l0X,60,pop
+253,Ode to a Conversation Stuck in Your Throat,Del Water Gap,2021-10-08,51Lf3l6wx008NdBxCQnD6B,66,pop
+254,Savage,aespa,2021-10-05,3dbLT62Cvs46Ju7a8gpr36,67,pop
+255,Fly Away,Tones And I,2021-07-16,2zBDKzqa6sdxeI0fC6OWIC,62,pop
+256,Fallen Star,The Neighbourhood,2021-10-01,60F6pgM6H6miNr5AmjxwjL,64,pop
+257,midnight love,girl in red,2021-04-30,32XaqPVTVkkuOiOPQZ3SpA,63,pop
+258,Nights Like This,St. Lundi,2021-09-03,583Fc6qU9thMdXu64j1Wus,60,pop
+259,怪物,YOASOBI,2021-01-06,06XQvnJb53SUYmlWIhUXUi,62,pop
+260,dumb dumb,mazie,2021-08-25,4qbEaaJ29p32GI8EWQmm6R,63,pop
+261,LOCO,ITZY,2021-09-24,56Yxkm62GtEpnPyG7TvwLY,62,pop
+262,Mai,Videoclub,2021-01-29,2qRMnItMLesizxbPqIwcSm,63,pop
+263,Manila,"Ray Dalton, Alvaro Soler",2021-10-15,2hBkoDhuGk2AtSCprEFDFP,56,pop
+264,Acaramelao,Maria Becerra,2021-08-26,5usHLPkjh7WmJSEWqZHVSE,55,pop
+265,Hasta Ese Día,Lasso,2021-08-02,1nbaJy4hbGV8r3DRqeeXF1,55,pop
+266,Love All (with JAY-Z),"Drake, JAY-Z",2021-09-03,4VCbgIdr8ptegWeJpqLVHH,64,pop
+267,Next Level,aespa,2021-05-17,2zrhoHlFKxFTRF5aMyxMoQ,66,pop
+268,Everyone Adores You (at least I do),Matt Maltese,2021-10-08,6klFWv2xDGeTDoiKTtx4hg,69,pop
+269,Attentat,"PLK, OBOY",2021-11-12,5ioieZofgvXQK70RFhVohl,60,pop
+270,One More I Love You,Alex Warren,2021-06-11,6QFnwOaQIMd9sZNsd4mUaO,63,pop
+271,ELEVEN,IVE,2021-12-01,7n2FZQsaLb7ZRfRPfEeIvr,65,pop
+272,The Sun,Myd,2021-04-30,5UEZzRsrB4FKw1SIMoMD2y,57,pop
+273,Mesytara,Lamis Kan,2021-07-27,7H2uwSkd2mhRKyTOPRDE2L,61,pop
+274,Every Step,D.O.D,2021-06-25,7me5d5XmtCCfbDk3SsyXqM,61,pop
+275,H.S.K.T. (feat. Wonstein),"LeeHi, Wonstein",2021-09-09,39382sUtIOwIXftX0i76do,70,pop
+276,Si Me Tomo una Cerveza - Remix,"Migrantes, Oscu, Rombai, Agapornis, Alico, Nico Valdi",2021-01-08,7oySelE0Cb5q1TBBSPZJT2,52,pop
+277,Yours,Jin,2021-11-07,66sBTYlkaiyBwf4fhbIHlZ,61,pop
+278,SHUM,Go_A,2021-08-04,29bhnde7Gvnp7rvY9zsq5S,56,pop
+279,La night,Benab,2021-02-19,3eBP8HIUQKz9pDtduRf2ky,58,pop
+280,Lewjah Tani,"Saad Lamjarred, Zouhair Bahaoui",2021-01-01,2YwzYRcRIJLMPq4TBTBQgd,49,pop
+281,Pipe Down,Drake,2021-09-03,11pEKMLmavDu8fxOB5QjbQ,69,pop
+282,C'est la cité,"Jul, Naps",2021-06-25,787pJlm5f43sODotPcNfNp,52,pop
+283,El Precio de Tu Error - En Vivo,Luis Alfonso,2021-06-04,45DhsSxAU4rENWHUfaZedt,54,pop
+284,I'll Call You Mine,girl in red,2021-04-30,6rYgEHuyhO064Lgj48qlIe,59,pop
+285,TDB,OBOY,2021-09-10,5YoDQgB4j7oBHWXH3DcwFD,60,pop
+286,MI FAI IMPAZZIRE,"BLANCO, Sfera Ebbasta",2021-06-17,1x3Qb8np6S1UvpSLthwEJN,56,pop
+287,P A S C O M M E Ç A,"Tayc, Tiakola",2021-11-19,1ZrkOlKJ9db1cHnL1xEyfd,59,pop
+288,ただ声一つ,Rokudenashi,2021-12-22,2e1gUS6Wv8GS8ZT6FMeE1J,67,pop
+289,E Agora,Nininho Vaz Maia,2021-07-02,6b83CJAjIXSk2cUjabJBlm,50,pop
+290,Rock with you,SEVENTEEN,2021-10-22,6LnEoRQKMcaFTR5UvaKuBy,64,pop
+291,No Friends In The Industry,Drake,2021-09-03,2tUL6dZf1mywCj5WvCPZw6,64,pop
+292,Doble Dosis De Licor,"Luis Alberto Posada, Fernando Burbano",2021,2c971yBk27PF2epTpnQnaI,50,pop
+293,Que Lloro / Mientes,Ke Personajes,2021-11-04,1FqNwW8ifGAJgl8Dv2CCWh,55,pop
+294,Hurts So Good,Astrid S,2021-03-05,46u5B2WN4wryYLZuMAOmI4,66,pop
+295,EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),"DJ Khaled, Lil Baby, Lil Durk",2021-04-30,1EJIcDYXwSqipW5dFe4uJz,67,pop
+296,In A Good Way,Faye Webster,2021-06-25,2VYnlKxB8jpbCeLUjQsebc,70,pop
+297,Solid (feat. Drake),"Young Stoner Life, Young Thug, Gunna, Drake",2021-04-16,6rTInqW3YECMkQsBEHw4sd,64,pop
+298,Eté 90,Therapie TAXI,2021-01-08,1p9dxTMtG4gZpLp7yzvT54,62,pop
+299,Baby Riddim,FAVE,2021-09-30,77eZIuMTB9HrQ86L4ljqEX,60,pop
+300,In The Bible (with Lil Durk & Giveon),"Drake, Lil Durk, GIVĒON",2021-09-03,61S79KIVA4I9FXbnsylEHT,61,pop
+301,群青,YOASOBI,2021-01-06,1zd35Y44Blc1CwwVbW3Qnk,65,pop
+302,Young Right Now,"Robin Schulz, Dennis Lloyd",2021-11-12,0JpEMzTHbt2zBIXrntrXzG,55,pop
+303,Meninos e Meninas,Jão,2021-10-20,5B1skkpiljQOQLAmANiaDa,66,pop
+304,Lie,Kizz Daniel,2021-11-18,03DxO8kGNrEGr1VjPSdQs2,59,pop
+305,Ramen & OJ,"Joyner Lucas, Lil Baby",2021-04-30,4TIqzdAssasqx3DAe6cG9J,62,pop
+306,Loved By You (feat. Burna Boy),"Justin Bieber, Burna Boy",2021-03-19,2tB9OFgAHjAds3cqquLlvp,58,pop
+307,Get Along Better,"Drake, Ty Dolla $ign",2021-09-03,5ScbulRnixQ2XAdvrPMFjz,65,pop
+308,Stylo warqa,RYM,2021-11-26,2KB0Hva9YPWOnU7GF5Kgv0,46,pop
+309,Cologne,beabadoobee,2021-06-23,1NaDK3atogQEn9glK5fYuy,66,pop
+310,Skati,Muslim,2021-04-24,7ungXHBRDqUW3s5iy5aEcI,41,pop
+311,Part of Me,Noah Kahan,2021-09-17,1o5WgxPWvoVgo20DQItKOE,64,pop
+312,Reckless,Madison Beer,2021-06-04,5ajjAnNRh8bxFvaVHzpPjh,67,pop
+313,Destri,Gazzelle,2021-02-12,7nRFsITVaSHko2Fw2Gcy59,62,pop
+314,Best life,"Naps, GIMS",2021-10-08,46vfSYsDJZaNQcD4YvT8GD,59,pop
+315,Found (feat. Brent Faiyaz),"Tems, Brent Faiyaz",2021-09-09,0GGfGINoVYiSFXPOjg3RHj,63,pop
+316,Basta Con Licor,Luis Alberto Posada,2021,2sOvh0wak6CVafbuGojeZC,48,pop
+317,Race My Mind,Drake,2021-09-03,2Q3jFbyE61mCjS3SkW4toJ,62,pop
+318,права,ooes,2021-06-25,6E2ec1JmPOXyh7k37tYhYU,61,pop
+319,Y.D.L.R.,Tory Lanez,2021-03-05,0ZHLqpysyyJil6TlEJAZY9,64,pop
+320,Moonwalking in Calabasas (feat. Blueface) - Remix,"DDG, Blueface",2021-06-15,73xjJ1TIE6WP3HNKczQE4F,61,pop
+321,Sin Un Adios,Luis Alberto Posada,2021,3iiFtYVARPVNIfEe41cATf,48,pop
+322,Jefe,Ninho,2021-12-03,6HTJgY7iWWlVLSDHsfHePf,62,pop
+323,Papi’s Home,Drake,2021-09-03,6jy9yJfgCsMHdu2Oz4BGKX,59,pop
+324,La Costa,Mister You,2021-02-05,4reODQeIoWhBgXe3nZmehp,51,pop
+325,たぶん,YOASOBI,2021-01-06,398dL22bDbKbAmiOnPaq7o,62,pop
+326,Far Away (feat. A$AP Rocky),"Yebba, A$AP Rocky",2021-09-10,14qNHvX8h6HoynFuV0RxWS,63,pop
+327,His & Hers (feat. Don Toliver & Lil Uzi Vert),"Internet Money, Gunna, Don Toliver, Lil Uzi Vert",2021-05-13,5LKIZ4UTKebSE5VFbLSQnr,61,pop
+328,Cry Baby,OFFICIAL HIGE DANDISM,2021-08-18,7nF9c1EmRF3BNAtKDCwUAK,55,pop
+329,Rampampam,Minelli,2021-06-18,1esZgaqm0YKN87CIP3orJ3,55,pop
+330,N 2 Deep,"Drake, Future",2021-09-03,34D6FJysnQioVingDKufuf,62,pop
+331,一途,King Gnu,2021-12-10,7ncPjJBktLEOpstY5JOUMK,62,pop
+332,La kiffance,Naps,2021-04-02,1bwhDrXcAtqePp8mNJ0pTe,58,pop
+333,No Aguanto Más,"The La Planta, Sebastian Mendoza",2021-01-22,3zJyIy2A092fKIbkZJPzrz,58,pop
+334,Beautifully,FAVE,2021-05-12,7mFrwc86C3vZKobwpK0jdH,55,pop
+335,のびしろ,Creepy Nuts,2021-09-01,3bbIIVIwBoLqVcLebiEJFo,61,pop
+336,Caballero - En Vivo,Luis Alfonso,2021-06-04,0b9rQbZr4di61R6PFEpyg7,52,pop
+337,Lemon Pepper Freestyle (feat. Rick Ross),"Drake, Rick Ross",2021-03-05,4FRW5Nza1Ym91BGV4nFWXI,60,pop
+338,Alba (feat. Sofiane Pamart),"Bon Entendeur, Sofiane Pamart",2021-06-25,5K9Kc9Uv5lpntEIZK8G54F,54,pop
+339,Here's Your Perfect,Jamie Miller,2021-04-30,2aTKrdenCq5qBOoJPFdn4P,69,pop
+340,Solo Tú,Don Medardo y sus Players Mauricio Luzuriaga,2021-07-10,0TlYqxRfNGgW0PPNim4551,45,pop
+341,Non Fare Così,Capo Plaza,2021-01-22,769M2rTiAoL7x2lKDHLjRa,58,pop
+342,Mi Mas Grande Locura,Luisito Muñoz,2021-03-02,7i6vd0B9my0mJfCcVEMbmV,49,pop
+343,Seductora Explotadora Y Algo Más,Luis Alberto Posada,2021,1O2tgtoj8lGL0mZF0PNEjw,47,pop
+344,HAINE&SEX,Gazo,2021-02-26,6Vcxzw4ifKqYxVrp3ckpVF,59,pop
+345,HWAA,(G)I-DLE,2021-01-11,5FiXhM80sP4yg6tEnHkZZn,56,pop
+346,Love Somebody,Rotimi,2021-10-15,2VR1nIY2M4W2AfNOg4uFR7,53,pop
+347,Como Lo Hice Yo,"Matisse, Carin Leon",2021-09-10,64JzNzcoSZOh3RWeoghVfk,59,pop
+348,NO CHÃO NOVINHA,"Anitta, PEDRO SAMPAIO",2021-12-09,7ARoqP7G8UYW8SyYPyPp7k,57,pop
+349,Peligrosa,Ardian Bujupi,2021-05-28,0ZVk8VH9GlgaTSx6LQCA7G,50,pop
+350,La Seleçao,"Alonzo, Jul, Naps",2021-03-25,2vd2HEhrkafOi2uveHjzzh,53,pop
+351,And This is Just The Intro,Tory Lanez,2021-03-05,4sMmYKC0ot3GTbl2RzHw7T,65,pop
+352,LUNA PIENA (con IRAMA),"Rkomi, Irama, Shablo",2021-11-30,6z7tGTD6yvyloEm6K2H8EX,56,pop
+353,Bebeto,"Kendji Girac, Soolking",2021-11-11,1fDFx7MpMpxNeHj0uQ4395,54,pop
+354,To you,SEVENTEEN,2021-10-22,25osmdhvjltPlN7gI2Javd,61,pop
+355,DREAMIN' ON,Da-iCE,2021-01-20,1rxh0iojvTB24C6BpOdfC1,55,pop
+356,Monalisa,"Lojay, Sarz",2021-06-04,1zwZ26A7OA5wTrA3FejCLL,56,pop
+357,LILAC,IU,2021-03-25,5xrtzzzikpG3BLbo4q1Yul,61,pop
+358,WYD Now?,Sadie Jean,2021-12-10,3ZBeHiRJUj1vdiU8zzGPgb,62,pop
+359,последнее лето,ooes,2021-06-25,0K5arhAxYWj7QxFhpKJe6z,58,pop
+360,Salomé,"Tayc, Marcus",2021-11-19,4DRF0J8DUc5GPzcbOTD1gu,56,pop
+361,Finché Non Mi Seppelliscono,BLANCO,2021-09-09,16EJNayKtC09M0Fi7Py47s,53,pop
+362,Hoy Volvi a Verte - Remix,"Migrantes, El Retutu, FMK, Nico Valdi",2021-12-15,0KvtuCa8aGD8SR39aLLLj5,47,pop
+363,De9at L9elb,MA3IZ,2021-06-06,7cR89SHQxKRFHS5ShOCapl,46,pop
+364,Cand Am O Zi Grea,Oana Radu,2021-12-30,1M4CTZ0xTo2HskjUw2UFO2,42,pop
+365,Ski,"Young Stoner Life, Young Thug, Gunna",2021-04-16,6755DFiZ7CWe2WMdTGW5C1,62,pop
+366,LA CODA DEL DIAVOLO (con ELODIE),"Rkomi, Elodie",2021-11-30,6oYcyS6salzWI1ysjEScFh,57,pop
+367,Senor de los Gallos,"Lacrim, Werenoi",2021-12-09,5BjA8EhCstUtLMOAtcJvnZ,51,pop
+368,Bounce,Ruger,2021-03-12,1JY0oHjgGulg9YULxx8KW7,59,pop
+369,One Last Kiss,Hikaru Utada,2021-03-09,5RhWszHMSKzb7KiXk4Ae0M,57,pop
+370,NUOVO RANGE (con SFERA EBBASTA),"Rkomi, Sfera Ebbasta, Junior K",2021-11-30,5YSR0sWUZk7NuIbkycxndu,57,pop
+371,Remember - Acoustic,Becky Hill,2021-07-09,5aXfGM7WVcqyAvqnL7k0y3,54,pop
+372,Forever (Remix),"Gyakie, Omah Lay",2021-03-18,4vLY6fJQWgBzQYHzguDZme,57,pop
+373,Determinarme Un Poquito,Luis Alberto Posada,2021,3Cn65q1fr0IMMrGDUYCiOO,45,pop
+374,Mood (feat. BNXN),"Wizkid, Bnxn",2021-08-27,6jdTkoEaer7XNGSblczoSu,57,pop
+375,I'm Gonna Love You,"D.O., Wonstein",2021-07-26,1jxGBe4s8FwL2ZeNWszVuu,59,pop
+376,Judas,Lady Gaga,2021-06-25,5Y3VGpWUYkZWjK5SU4OzZg,47,pop
+377,Latidos,Matías Valdez,2021-08-27,7exaYYNN99DHkbZuHOZWO3,54,pop
+378,Dieu merci,"Dadju, Tiakola",2021-06-02,11Qk2ErD3ckafyw4RqQsQK,57,pop
+379,VVS,Ninho,2021-12-03,5S12Ds2RswM2ITC0u1J01f,58,pop
+380,F*****g Fans,Drake,2021-09-03,3RkNXZvOSMMElmmXztDc94,58,pop
+381,If I Were the Devil,Colby Acuff,2021-02-15,3lsWwQnDg99gtni4g5V0UG,64,pop
+382,'Til You Can't,Cody Johnson,2021-10-08,4k3lPl8YTKuY8c1HelVnm3,68,pop
+383,daisy.,wave to earth,2021-05-13,6vBr2tIHZKaMTpK7r99O3g,62,pop
+384,あの夢をなぞって,YOASOBI,2021-01-06,5ptl2PXkiSth54HCuGO7vN,61,pop
+385,Lisboa,"ANAVITÓRIA, Lenine",2021-01-01,2o2xhyri4aJUtgMGkf5P0J,69,pop
+386,Things A Man Oughta Know,Lainey Wilson,2021-02-19,3S0sk6DSTgesXsUSAEHNr5,67,pop
+387,Filtré,"Timal, Gazo",2021-10-15,7eb7JIRN6HKpedFSDGd4yI,54,pop
+388,La kiffance,Naps,2021-02-26,4CWcaGtaOyAqBDKIeZMUe0,53,pop
+389,Daddy chocolat,"Koba LaD, Gazo",2021-06-17,4IbDTrLxImTJfZePAX2nKB,59,pop
+390,Quel filo che ci unisce,Ultimo,2021-10-22,05G7GqOjkYKObUWFDownVV,58,pop
+391,Isa lang,Arthur Nery,2021-12-17,0HAG6nIiEKd75yGpovuSJQ,75,pop
+392,Vai Lá Em Casa Hoje - Ao Vivo,"George Henrique & Rodrigo, Marília Mendonça",2021-10-22,7IIDB25xKfPbw595U53Ose,65,pop
+393,"Pic et pic, alcool et drame",Jul,2021-06-25,45oACPW09TDQ8tCFcNisQM,53,pop
+394,ハルジオン,YOASOBI,2021-01-06,08YwAPnX8sygJUXG9rvhDv,58,pop
+395,Eh God (Barnabas),Kizz Daniel,2021-11-18,2Ydj7wgn4ZrFFQsfFBTTYJ,53,pop
+396,Respire encore,Clara Luciani,2021-06-11,0n9eeQnvzmMcq0l4DeGWQH,55,pop
+397,Queendom,Red Velvet,2021-08-16,6SpPr7K4YQ2wp8jU6uOTmQ,56,pop
+398,La miss,Jul,2021-12-10,6RXHipTclQenO0vKFeGZYi,51,pop
+399,Pray,Victony,2021-07-30,7g8MgU8WgI0QR0RN4Rqem3,54,pop
+400,Respire encore,Clara Luciani,2021-06-11,0n9eeQnvzmMcq0l4DeGWQH,55,pop
+401,La miss,Jul,2021-12-10,6RXHipTclQenO0vKFeGZYi,51,pop
+402,Pray,Victony,2021-07-30,7g8MgU8WgI0QR0RN4Rqem3,54,pop
+403,Ya Hasra,Balti,2021-02-13,31aXDE3sU8EmBEoN6jtP9K,46,pop
+404,Gosto de Ti,"Nininho Vaz Maia, Cristiano Maia",2021-07-02,2xyQaJXfp2DRElKF3aOMHP,46,pop
+405,Osama,"Zakes Bantwini, Kasango",2021-09-10,1YPkBfrRCpvBrwJU66LQWq,50,pop
+406,Give Me Your Forever,Zack Tabudlo,2021-10-15,4mzP5mHkRvGxdhdGdAH7EJ,67,pop
+407,Le Dernier Jour du Disco,Juliette Armanet,2021-11-19,2Yu8DEe4uc8ApN7t7q0P4s,53,pop
+408,Geleira do tempo,"ANAVITÓRIA, Jorge & Mateus",2021-10-01,4ziqkaBXfo4GrmuF0gsNyi,58,pop
+409,Pololo,"MHD, Tiakola",2021-07-15,2gmTz7pHMqAk6fpOc88qxA,50,pop
+410,清空,"苏星婕, 王忻辰",2021-01-28,5HGvMmgabU7ZkF94klVhdm,55,pop
+411,A un Milímetro de Ti,El Blachy,2021-06-18,2SS9HhYPgHnHXlkgmr8B5i,42,pop
+412,Dernier métro,"Kendji Girac, GIMS",2021-11-11,7J8XJt5KveebN0DzWXrbgQ,52,pop
+413,Démons,"Angèle, Damso",2021-12-02,3gAEAmxdP1GIjgQ3Zud2mE,55,pop
+414,Abeg,"DJ Neptune, Joeboy, Omah Lay",2021-11-26,62cC7k1opRIS9sdviJnVj5,51,pop
+415,Scarface,Werenoi,2021-08-18,2RSpOGQtcNgmbx5ejgho5X,56,pop
+416,Passat,"SDM, Maes",2021-12-09,5yHoANSze7sGzhn9MUarH3,55,pop
+417,∞ LOVE (feat. Guè),"Marracash, Guè",2021-11-19,0HhSB4nAJpI5expWnZL199,58,pop
+418,Pour Me Water,Kizz Daniel,2021-11-18,1DrfpnLvbwndPScRLwbUE0,55,pop
+419,KASSAV (feat. Tiakola),"Gazo, Tiakola",2021-02-26,25PVU9aowaP69bSYRBe3sj,53,pop
+420,Mode Akimbo (feat. Jul),"SCH, Jul",2021-03-19,7qezIDRM0E3WTW1lWxItug,53,pop
+421,Better Days,Dermot Kennedy,2021-10-22,48USW4aYqrylYWJmFPbC8A,56,pop
+422,MODO TURBO,"Luísa Sonza, Pabllo Vittar, Anitta",2021-07-18,2ip4hxYupn3CSsHjn4l2a8,57,pop
+423,Mais je t'aime,"Grand Corps Malade, Camille Lellouche",2021-09-10,17NQyo1HsqDX7mbzsTWMuX,55,pop
+424,Cruel,OBOY,2021-09-10,1q3UKwsvTPfF44xQJYC0sg,52,pop
+425,Dans le Réseau,Djadja & Dinaz,2021-03-20,0X5zETsfr8nGAVABRcD4o4,55,pop
+426,7am On Bridle Path,Drake,2021-09-03,42m3eP1JJhtzffal9B136J,55,pop
+427,逆夢,King Gnu,2021-12-24,6ZiEWet0uFRwWBCEKCQ8rY,61,pop
+428,Early In The Morning,"Kris Kross Amsterdam, Shaggy, Conor Maynard",2021-04-30,2R9nfayl1NXhuAdEpwG2Qa,52,pop
+429,Son Of A Sinner,Jelly Roll,2021-09-17,6ngGiVX91DRmGDH4G5EgeO,68,pop
+430,Sagacité,MHD,2021-07-15,6UgODeTkEfRQBWcJ4nWUl5,53,pop
+431,Running (To You),"Chike, Simi",2021-02-12,5rTC3tKShDyYK0wk0rq96X,55,pop
+432,TAKE ALL THE LOVE,Arthur Nery,2021-04-23,2v6jmF6VQWS96x6tSg05IC,73,pop
+433,Volver a Vernos,Matías Valdez,2021-11-17,6FzRjE65s7jGPVnLbx5FSr,51,pop
+434,Having Our Way (feat. Drake),"Migos, Drake",2021-06-11,2NM0qHzx4Ohy8iXHEEgwlO,56,pop
+435,Контракт,Poshlaya Molly,2021-03-12,2bqS0QtnXGjOYs3z6VtSyW,58,pop
+436,Crush,SEVENTEEN,2021-10-22,68kHuoBxtNcWZWxBu1V007,58,pop
+437,Ferma A Guardare (feat. Pinguini Tattici Nucleari),"Ernia, Pinguini Tattici Nucleari",2021-01-19,1eDC4NiUYgQSKpKDIvXxi4,57,pop
+438,Coltellata (feat. thasup),"Gazzelle, thasup",2021-02-12,6RDCUnAj3V4s37b0BBBXTa,56,pop
+439,Timidez / A Mi Lado (Acústico),El Rodri,2021-03-19,3xti89QanGWwBQKcYTVmsC,49,pop
+440,Que tout s'danse,Noé Preszow,2021-04-02,5btPpAAwVyA8bRc3Ol8gqQ,51,pop
+441,Август - это ты,МОТ,2021-08-27,4jkq9bTWSn4phpLK9B5DhO,52,pop
+442,Derrière le brouillard,"Grand Corps Malade, Louane",2021-09-10,6r6nk82xSKVf9SoJTY1w2p,54,pop
+443,Oshe (feat. The Cavemen.),"Kizz Daniel, The Cavemen.",2021-11-18,4upQnh3K5k1xbVOr97fdG7,51,pop
+444,Doudou,"Koba LaD, Naps",2021-12-09,1cgRpYVOkYnxomkDpYLyba,53,pop
+445,зима,ooes,2021-06-25,0cOftxEWGyu4XAqEsqmdWS,55,pop
+446,Pagsamo,Arthur Nery,2021-10-01,0WZqHCoOBXqgCCIsUZLC2a,71,pop
+447,Osama,"Zakes Bantwini, Kasango",2021-12-03,0T0FIfA0AI3ELwNVBSZNS3,45,pop
+448,Te Mentiría,The La Planta,2021-06-24,1GtBrm91qZLzAZ0OR8uSCk,45,pop
+449,Blesse-moi,Therapie TAXI,2021-01-08,6nRSyu4oOed8HgcVxV1cWl,53,pop
+450,白月光与朱砂痣 - 中英文版,"大籽, 嘿人李逵Noisemakers",2021-01-01,4ZC1k5x3nAJi9E3esl5yLb,55,pop
+451,Crazy Tings,Tems,2021-09-10,5VQagemEOLpJJikcLzDNYR,52,pop
+452,Cold Outside,"Timaya, Bnxn",2021-10-14,2jZ2MrAk8iNZk1dsI0Vr5z,54,pop
+453,Para Siempre,Benjamín Amadeo,2021-09-02,5ILu4zdXzG4WCbX9GtMNJX,49,pop
+454,TERE TE,"AP Dhillon, Gurinder Gill",2021-11-21,0ptqV9ySE8HVbWblGdv3Eb,64,pop
+455,Allegro Ventigo,"Dan Balan, Matteo",2021-04-20,16DIrIswfV76PWOg54XS0F,45,pop
+456,Кайфую,VESNA305,2021-11-30,4ltlMh1fmktbnPXZJrdwwz,52,pop
+457,孤勇者 - 《英雄聯盟：雙城之戰》動畫劇集中文主題曲,Eason Chan,2021-12-07,6akVETVeqqPVvuBS5e0EB1,55,pop
+458,Dulce Simfonie,AMI,2021-12-02,4QnkbnGZ44ItEEZZdN223b,39,pop
+459,Run Away to Mars,TALK,2021-06-23,6G1Mz5yMgn0ydOlIvTrZ65,58,pop
+460,半生雪,Silk Ye,2021-03-09,78bqfALvRPcASKzAYOpo7z,52,pop
+461,Dimension (feat. Skepta & Rema),"JAE5, Skepta, Rema",2021-03-18,2Jy4EdqIZswDZvVDh5dx3A,56,pop
+462,FUM22 NOCIVE,Green Montana,2021-06-10,3v9eCrcYmTjYjy68TWHj5b,55,pop
+463,Dans mes bras,"Kendji Girac, Dadju",2021-11-11,67uINkj49Zoh1fhIZvA4fk,53,pop
+464,Dirty Looks,Lainey Wilson,2021-02-19,45EwtYrnqJH3AH2bFpEOC6,66,pop
+465,Vérité,Ninho,2021-12-03,1O1EqgvgRyj1ejZPUxI0UX,57,pop
+466,Yakalelo,SDM,2021-04-08,1IeB4ax90dBPu7aM1aqEVA,55,pop
+467,从前说,小阿七,2021-12-29,3t5edAHbyFEW67wFApp7EO,58,pop
+468,ночь,ooes,2021-06-25,0Mfjy6p9vZsfzbQReWdooZ,54,pop
+469,R.A.F,PLK,2021-11-12,0Bo36dconUdOrPoFgVZM5p,55,pop
+470,Enigma,"AMI, Tata Vlad",2021-04-28,2f8MHyPig4TgiKlhIqH8wh,40,pop
+471,12 Bande,Varinder Brar,2021-10-11,6dgYHmc5yBnQFI4FSCbp6y,64,pop
+472,Птичка,HammAli & Navai,2021-05-17,6Abmb1Nh7Bc5U6o4iEgSDH,52,pop
+473,Un homme,Jérémy Frerot,2021-02-19,7fu7J4k1mdnmpfVXFuEShk,56,pop
+474,Petrouchka (feat. PLK),"Soso Maness, PLK",2021-06-04,03y045SZqaC94yfXl1cU4E,52,pop
+475,Mesdames,Grand Corps Malade,2021-09-10,53rHB42qfLOqmbbePg4aKx,54,pop
+476,Best life,"Naps, GIMS",2021-09-29,2kUKeN9ZpYHqfBjB8Gphb2,50,pop
+477,295,Sidhu Moose Wala,2021-05-15,5W7DOVGQLTigu09afW7QMT,67,pop
+478,No Choice,Fly By Midnight,2021-11-19,74G0T9Zo5TAJQabpW4gIs3,55,pop
+479,Hello,JOY,2021-05-31,3cGp1jXxLReLKz7QgVbWZR,53,pop
+480,飞鸟和蝉,Ren Ran,2021-07-27,4lhbajK3dvUcJ0UNEeCdMn,58,pop
+481,Не Бруклин,"МОТ, LYRIQ",2021-05-27,0UNq8Fqmv81cnbq0OqPPVV,50,pop
+482,No Vacancy,Treaty Oak Revival,2021-01-29,3pVs5Zehts89WLyBPiYfxG,71,pop
+483,County Line,Chase Matthew,2021-07-02,1V8LJmUEAleAHmBUaD0ZFI,64,pop
+484,My love (feat. Tayc),"Josman, Tayc",2021-06-20,1QtUnWsxvPKHmNgoaksOBv,58,pop
+485,EUPHON,Gazo,2021-02-26,26xheWSJ6cJf1oF5ooC4ZC,53,pop
+486,Habit,Laurell,2021-04-09,4bnutybG1itDcpyoQo2Uoc,52,pop
+487,Mona Lisa,"Booba, JSX",2021-03-04,5LYRIyhmlrDAQsYdHEvP0f,55,pop
+488,Home,Klangkarussell,2021-05-27,2S5Ddttb7db90WNDde1UJx,50,pop
+489,突破口,SUPER BEAVER,2021-02-03,2JNl3zf7dLaK3ceN12RTOW,50,pop
+490,Заманчивая,MATRANG,2021-08-13,5kbOFqQ15vDh2FODZ3l1IF,52,pop
+491,Limitless,Jul,2021-06-25,2M7460TZk22Lvh6LbNi1lS,49,pop
+492,Broadway Girls (feat. Morgan Wallen),"Lil Durk, Morgan Wallen",2021-12-17,3DZ8dbKg4OTSSqGARvecYd,63,pop
+493,陪你看星星,陈子晴,2021-06-12,5cqjXHVSyVz2LP9r6K304N,52,pop
+494,好きだから。,『ユイカ』,2021-06-27,02xwA3Ej9NPetftp9V7VZ3,61,pop
+495,Rihanna,SDM,2021-04-08,73RQVlMExXaeOi6mnlz3Bb,57,pop
+496,还是会想你,"林達浪, H3R3",2021-03-14,011rlesOl5PD27bKaqPYrO,49,pop
+497,СОЛНЦЕ МОНАКО,Lusia Chebotina,2021-10-29,01D9gZCXYrAKVIYSgzOGrs,51,pop
+498,волна,тима ищет свет,2021-04-09,74UTzZAyhs0ZJhB2BRKOKZ,50,pop
+499,PIB,Niaks,2021-07-16,78253BuWHumjypJTGCdE5u,51,pop
