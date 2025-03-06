@@ -43,11 +43,11 @@ Desarrollo del proyecto en 9 sesiones:
 
 - Documentación de hallazgos y elaboración de conclusiones.
 
-#### 2.Presentación final (tips)
+## 3.Presentación final (tips)
 
 - Visión general del proyecto, metodologías utilizadas y resultados clave.
 
-## 3. Principales Resultados
+## 4. Principales Resultados
 
 *por determinar, dejo algo a modo de ejemplo*
 
@@ -59,9 +59,9 @@ Desarrollo del proyecto en 9 sesiones:
 
 
 
-## 4.Next steps:
-- `Géneros`: La API de Spotify no es del todo precisa con los géneros musicales en las canciones. Hemos visto que en el json obtenido de búsqueda de datos sobre canciones en la API de Spotipy, no aparece el género, si no que esta información aparece en el artista. Nos gustaría en el futuro poder hacer una llamada a la API directamente con la información del artista y filtrar correctamente el género de cada canción.
+## 5.Next steps:
+- `Géneros`: La API de Spotify no es del todo precisa con los géneros musicales en las canciones. Hemos visto que en el json obtenido de búsqueda de datos sobre canciones en la API de Spotipy, no aparece el género, sino que esta información aparece en el artista. Nos gustaría en el futuro poder hacer una llamada a la API directamente con la información del artista y filtrar correctamente el género de cada canción.
 
 - `Artistas similares`: Hacer una búsqueda de artistas similares para compararlos con los más escuchados y obtener conclusiones.
 
-- `búsqueda por países`: Ampliar a búsqueda a diferentes países.
+- `Búsqueda por países`: Ampliar a búsqueda a diferentes países.
