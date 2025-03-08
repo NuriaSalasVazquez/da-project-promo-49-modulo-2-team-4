@@ -54,8 +54,12 @@ Desarrollo del proyecto en 9 sesiones:
 - ¿Géneros que aumentaron/disminuyeron en popularidad?
 -  ¿Artistas que se mantuvieron en el tiempo vs. artistas emergentes?
 - ¿Relación entre pandemia y cambios en hábitos de escucha?
--  ¿?¿?
-- ¿?¿?
+-  ¿Cuál género fue el más valorado durante la Pandemia?
+- ¿En qué año se han lanzado más canciones?
+- ¿Cuál fue la canción más valorada durante la Pandemia? ¿Y en la actualidad?
+- ¿Se consumió más música durante la Pandemia?
+- Durante el año 2020,¿Cuál fue el mes con mayor número de reproducciones?¿Y cuál el mes con menores escuchas?
+- ¿?¿?¿?
 
 
 
@@ -65,3 +69,4 @@ Desarrollo del proyecto en 9 sesiones:
 - `Artistas similares`: Hacer una búsqueda de artistas similares para compararlos con los más escuchados y obtener conclusiones.
 
 - `Búsqueda por países`: Ampliar a búsqueda a diferentes países.
+
