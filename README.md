@@ -1,9 +1,9 @@
 # Análisis del impacto de la pandemia en la música
+*Proyecto realizado por `Brave Data`.*
 
 ## 1. Descripción del Proyecto
-Este proyecto analiza el impacto de la pandemia en los hábitos de escucha de música a partir de datos extraídos de `Spotify` y `LastFM`. Se estudian los géneros más populares entre 2019 y 2022, los artistas más relevantes antes, durante y después de la pandemia, y se comparan con los artistas y canciones más escuchados en la actualidad (2024).
 
-El objetivo principal es determinar si la pandemia generó cambios significativos en la popularidad de ciertos géneros musicales y en la permanencia de los artistas en la industria.
+Music Stream en colaboración con la Fundación Armonía Social nos ha solicitado la realización de un estudio de tendencias musicales relevantes durante la pandemia. El objetivo del proyecto es obtener resultados concluyentes para la implementación de recursos musicales en servicios de atención domiciliaria.
 
 
 ## 2. Metodología
@@ -43,30 +43,39 @@ Desarrollo del proyecto en 9 sesiones:
 
 - Documentación de hallazgos y elaboración de conclusiones.
 
-## 3.Presentación final (tips)
 
-- Visión general del proyecto, metodologías utilizadas y resultados clave.
+## 3. Principales Resultados
 
-## 4. Principales Resultados
+- ¿Hay géneros que aumentaron/disminuyeron en popularidad?:
 
-*por determinar, dejo algo a modo de ejemplo*
+Leve bajada de popularidad en 2020 de todos los géneros, condicionado quizás por el estado anímico de la sociedad.
 
-- ¿Géneros que aumentaron/disminuyeron en popularidad?
--  ¿Artistas que se mantuvieron en el tiempo vs. artistas emergentes?
-- ¿Relación entre pandemia y cambios en hábitos de escucha?
 -  ¿Cuál género fue el más valorado durante la Pandemia?
-- ¿En qué año se han lanzado más canciones?
-- ¿Cuál fue la canción más valorada durante la Pandemia? ¿Y en la actualidad?
-- ¿Se consumió más música durante la Pandemia?
-- Durante el año 2020,¿Cuál fue el mes con mayor número de reproducciones?¿Y cuál el mes con menores escuchas?
-- ¿?¿?¿?
+
+El género `pop` fue el género más valorado durante la pandemia y asimismo, aumenta su popularidad tras la pandemia.
 
 
+- ¿Cuál ha sido la tendencia de lanzamiento de canciones?
 
-## 5.Next steps:
+Se encuentran relaciones de lanzamientos de canciones con momentos clave durante la pandemia (`marzo` y `julio`).
+
+- Otros hallazgos:
+    - 21 artistas se han consolidado desde 2028 como `Billie Eilish` o `Karol G`.
+    - 191 artistas aumentaron su popularidad en 2020, como `Bad Bunny`.
+    - 521 artistas escuchados en 2020 tienen todavía oyentes en la actualidad.
+    - 41 artistas tuvieron un pico de popularidad en 2020 como por ejemplo, `Sebastian Yatra` (en reggaeton).
+
+
+## 4.Next steps:
 - `Géneros`: La API de Spotify no es del todo precisa con los géneros musicales en las canciones. Hemos visto que en el json obtenido de búsqueda de datos sobre canciones en la API de Spotipy, no aparece el género, sino que esta información aparece en el artista. Nos gustaría en el futuro poder hacer una llamada a la API directamente con la información del artista y filtrar correctamente el género de cada canción.
 
-- `Artistas similares`: Hacer una búsqueda de artistas similares para compararlos con los más escuchados y obtener conclusiones.
+- Por otro lado, este proyecto sienta las bases para futuras investigaciones y algunas mejoras podrían ser:
 
-- `Búsqueda por países`: Ampliar a búsqueda a diferentes países.
+    - `Ampliar los géneros musicales`: obtener el género de cada artista para filtrar y clasificar mejor las canciones.
+
+    - `Cruzar estos datos con datos poblacionales.`
+
+    - `Proponer rutinas musicales para el bienestar`.
+    
+     
 
