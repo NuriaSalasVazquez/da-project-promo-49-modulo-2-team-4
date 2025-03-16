@@ -49,7 +49,7 @@ WHERE YEAR(s.release_date) IN (2019, 2020, 2021, 2022, 2024)
 GROUP BY YEAR(s.release_date), s.genero
 ORDER BY year, avg_popularity DESC;
 
-### QUERYS CON GRÁFICAS ###
+-- QUERYS CON GRÁFICAS 
 
 SELECT genero, COUNT(*)
 	FROM tracks_spoty
