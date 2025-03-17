@@ -53,13 +53,14 @@ Se encuentran relaciones de lanzamientos de canciones con momentos clave durante
 
 ## 4.Next steps:
 ### Mejorar la precisión de los Géneros: 
-La API de Spotify `no proporciona el género a nivel de canción`, solo a nivel de artista. En el futuro, podríamos hacer llamadas adicionales a la API para clasificar correctamente cada canción.  
+La API de Spotify `no proporciona el género a nivel de canción`, solo a nivel de artista. En el futuro, podríamos hacer llamadas adicionales a la API para clasificar correctamente cada canción en un determinado género.  
 
-### Cruzar datos musicales con datos poblacionales 
-Incluir información `demográfica` para analizar el impacto de la pandemia en distintos países.  
+### Ampliar el proceso de investigación con datos poblacionales:
+Incluir información `demográfica` para analizar situaciones de Soledad No Deseada en la población y aplicar las recomendaciones en base a datos reales de cada persona en su domicilio.
 
-### Proponer rutinas musicales para el bienestar
-Usar los insights obtenidos para `diseñar playlists o estrategias musicales` enfocadas en la salud mental y el bienestar.  
+### Proponer rutinas musicales para el bienestar:
+Usar los insights obtenidos para `diseñar playlists o estrategias musicales` enfocadas a una intervención preventiva en el domicilio y, a su vez, generando espacios de inclusión social virtuales.
  
 ## 📎 Recursos y Contacto  
 📂 **Repositorio:** https://github.com/NuriaSalasVazquez/da-project-promo-49-modulo-2-team-4.git
+   **Acceso a la Presentación:** http://bit.ly/4iabUmZ
