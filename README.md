@@ -10,33 +10,23 @@
 
 ### 2.1. Planificación (sesión 1)
 - Definición de hipótesis
-
 - Selección de `APIs`: Spotify (Spotipy) y LastFM
-
 - Estructura de los datos a extraer
-
 
 ### 2.2. Extracción de datos (sesiones 2, 3, 4, 5)
 - Obtención de las 500 canciones más populares de cada género (`reggaetón, rap, pop e indie)` en Spotify (2019-2022).
-
 - Extracción de `información de LastFM sobre los artistas` obtenidos en Spotify (número de oyentes, reproducciones y biografía).
-
 - Obtención de las 500 canciones más populares de cada género (reggaetón, rap, pop e indie) en Spotify del año 2024.
 
 ### 2.3. Creación y almacenamiento de datos (sesiones 6, 7, 8) 
 - Transformación de los datos con Pandas `DataFrames`.
-
 - Exportación a archivos `CSV`.
-
 - Integración de los datos en una base de datos `MySQL` para facilitar el análisis.
 
 ### 2.4. Análisis de resultados (sesiones 7, 8, 9) 
 - Identificación de cambios en la popularidad de géneros antes, durante y después de la pandemia.
-
 - Comparación de artistas populares en 2019-2022 vs. artistas más escuchados en 2024.
-
 - Visualización de tendencias de consumo musical en la pandemia.
-
 - Documentación de hallazgos y elaboración de conclusiones.
 
 
@@ -54,11 +44,11 @@ El género `pop` fue el género más valorado durante la pandemia y continuó ga
 
 Se encuentran relaciones de lanzamientos de canciones con momentos clave durante la pandemia (`marzo` y `julio`).
 
-### 🚀 Otros Hallazgos 
-    - 21 artistas se han consolidado desde 2018 como `Billie Eilish` o `Karol G`.
-    - 191 artistas aumentaron su popularidad en 2020, como `Bad Bunny`.
-    - 521 artistas escuchados en 2020 tienen todavía oyentes en la actualidad.
-    - 41 artistas tuvieron un pico de popularidad en 2020 como por ejemplo, `Sebastian Yatra` (en reggaeton).
+### 🚀 Otros Hallazgos :
+- 21 artistas se han consolidado desde 2018 como `Billie Eilish` o `Karol G`.
+- 191 artistas aumentaron su popularidad en 2020, como `Bad Bunny`.
+- 521 artistas escuchados en 2020 tienen todavía oyentes en la actualidad.
+- 41 artistas tuvieron un pico de popularidad en 2020 como por ejemplo, `Sebastian Yatra` (en reggaeton).
 
 
 ## 4.Next steps:
