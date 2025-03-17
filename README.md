@@ -64,4 +64,4 @@ Usar los insights obtenidos para `diseñar playlists o estrategias musicales` en
 ## 📎 Recursos y Contacto  
 📂 **Repositorio:** https://github.com/NuriaSalasVazquez/da-project-promo-49-modulo-2-team-4.git
 
-   **Acceso a la Presentación:** http://bit.ly/4iabUmZ
+🔗 **Acceso a la Presentación:** http://bit.ly/4iabUmZ
